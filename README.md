@@ -81,6 +81,10 @@ The chi-square test indicated **no statistically significant association** betwe
 
 This is a striking finding — it suggests that **individual performance and NBA scouting evaluations** regularly override institutional prestige when it comes to draft positioning.
 
+<p align="center">
+  <img src="https://github.com/0daylamb/NBA-Draft-and-College-Project/blob/3c215987478182b60ffbef8abd29a125330c99a7/Draft%20Round%20Distro%20for%20Unranked.png" width="600" alt="Draft Round Distribution for Unranked Schools"/>
+</p>
+
 ---
 
 ### 3. 🏫 Conference Breakdown of NBA Draftees
@@ -93,6 +97,10 @@ This is a striking finding — it suggests that **individual performance and NBA
 
 While the ACC and SEC produce the highest raw volume of drafted players, regression analysis revealed that **conference affiliation alone is not a statistically significant independent predictor** of being drafted.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0daylamb/NBA-Draft-and-College-Project/main/Top%20Conferences.png" width="600" alt="Top Conferences by NBA Draftees"/>
+</p>
+
 ---
 
 ### 4. 📊 Regression Summary
@@ -103,6 +111,10 @@ Logistic regression using two binary predictors:
 - `Major Conference` (1) vs. `Minor Conference` (0)
 
 **Neither predictor emerged as a significant independent driver of draft probability**, reinforcing the theme that talent scouting operates relatively independently of program prestige.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0daylamb/NBA-Draft-and-College-Project/main/Regression%20Plot.png" width="600" alt="Regression Plot"/>
+</p>
 
 ---
 
