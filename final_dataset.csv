@@ -1,0 +1,1836 @@
+player_name,college,draft_year,draft_round,draft_number,POSTSEASON,ranked_college,CONF
+Isaiah Canaan,Murray State,2013,2,34,Unranked,False,OVC
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Glen Rice,Georgia Tech,2013,2,35,Unranked,False,ACC
+Erik Murphy,Florida,2013,2,49,E8,True,SEC
+Jamaal Franklin,San Diego State,2013,2,41,R32,True,MWC
+Jeff Withey,Kansas,2013,2,39,S16,True,B12
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+Carrick Felix,Arizona State,2013,2,33,Unranked,False,P12
+Andre Roberson,Colorado,2013,1,26,R64,True,P12
+Anthony Bennett,Nevada-Las Vegas,2013,1,1,Unranked,False,Unranked / Non-NCAA
+Archie Goodwin,Kentucky,2013,1,29,Unranked,False,SEC
+Ben McLemore,Kansas,2013,1,7,S16,True,B12
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Ryan Kelly,Duke,2013,2,48,E8,True,ACC
+Shabazz Muhammad,UCLA,2013,1,14,R64,True,P12
+Shane Larkin,Miami (FL),2013,1,18,S16,True,ACC
+Solomon Hill,Arizona,2013,1,23,S16,True,P12
+Ray McCallum,Detroit Mercy,2013,2,36,Unranked,False,Unranked / Non-NCAA
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+Ricky Ledo,Providence,2013,2,43,Unranked,False,BE
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Trey Burke,Michigan,2013,1,9,2ND,True,B10
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Tony Mitchell,North Texas,2013,2,37,Unranked,False,CUSA
+Tony Snell,New Mexico,2013,1,20,R64,True,MWC
+Peyton Siva,Louisville,2013,2,56,Champions,True,BE
+Lorenzo Brown,North Carolina State,2013,2,52,R64,True,ACC
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+Nate Wolters,South Dakota State,2013,2,38,R64,True,Sum
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Michael Carter-Williams,Syracuse,2013,1,11,F4,True,ACC
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Allen Crabbe,California,2013,2,31,R32,True,P12
+PJ Hairston,North Carolina,2014,1,26,R32,True,ACC
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+Noah Vonleh,Indiana,2014,1,9,Unranked,False,B10
+Ryan Kelly,Duke,2013,2,48,E8,True,ACC
+Russ Smith,Louisville,2014,2,47,S16,True,BE
+Rodney Hood,Duke,2014,1,23,R64,True,ACC
+Ricky Ledo,Providence,2013,2,43,Unranked,False,BE
+Nik Stauskas,Michigan,2014,1,8,E8,True,B10
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+Ray McCallum,Detroit Mercy,2013,2,36,Unranked,False,Unranked / Non-NCAA
+Nick Johnson,Arizona,2014,2,42,E8,True,P12
+Markel Brown,Oklahoma State,2014,2,44,R64,True,B12
+Marcus Smart,Oklahoma State,2014,1,6,R64,True,B12
+Lorenzo Brown,North Carolina State,2013,2,52,R64,True,ACC
+Nerlens Noel,Kentucky,2013,1,6,Unranked,False,SEC
+Nate Wolters,South Dakota State,2013,2,38,R64,True,Sum
+Mitch McGary,Michigan,2014,1,21,E8,True,B10
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Michael Carter-Williams,Syracuse,2013,1,11,F4,True,ACC
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Ben McLemore,Kansas,2013,1,7,S16,True,B12
+Tony Snell,New Mexico,2013,1,20,R64,True,MWC
+Trey Burke,Michigan,2013,1,9,2ND,True,B10
+Tyler Ennis,Syracuse,2014,1,18,R32,True,ACC
+Andre Roberson,Colorado,2013,1,26,R64,True,P12
+Andrew Wiggins,Kansas,2014,1,1,R32,True,B12
+Anthony Bennett,Nevada-Las Vegas,2013,1,1,Unranked,False,Unranked / Non-NCAA
+Archie Goodwin,Kentucky,2013,1,29,Unranked,False,SEC
+Allen Crabbe,California,2013,2,31,R32,True,P12
+TJ Warren,North Carolina State,2014,1,14,R64,True,ACC
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+Spencer Dinwiddie,Colorado,2014,2,38,R64,True,P12
+Solomon Hill,Arizona,2013,1,23,S16,True,P12
+Shane Larkin,Miami (FL),2013,1,18,S16,True,ACC
+Shabazz Napier,Connecticut,2014,1,24,Champions,True,Amer
+Shabazz Muhammad,UCLA,2013,1,14,R64,True,P12
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Adreian Payne,Michigan State,2014,1,15,E8,True,B10
+Aaron Gordon,Arizona,2014,1,4,E8,True,P12
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Zach LaVine,UCLA,2014,1,13,S16,True,P12
+Dwight Powell,Stanford,2014,2,45,S16,True,P12
+Elfrid Payton,Louisiana-Lafayette,2014,1,10,Unranked,False,Unranked / Non-NCAA
+Doug McDermott,Creighton,2014,1,11,R32,True,BE
+Devyn Marble,Iowa,2014,2,56,R68,True,B10
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Glenn Robinson III,Michigan,2014,2,40,E8,True,B10
+Glen Rice,Georgia Tech,2013,2,35,Unranked,False,ACC
+Gary Harris,Michigan State,2014,1,19,E8,True,B10
+Erick Green,Virginia Tech,2013,2,46,Unranked,False,ACC
+Cameron Bairstow,New Mexico,2014,2,49,R64,True,MWC
+CJ Wilcox,Washington,2014,1,28,Unranked,False,P12
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Grant Jerrett,Arizona,2013,2,40,S16,True,P12
+Cory Jefferson,Baylor,2014,2,60,S16,True,B12
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Cleanthony Early,Wichita State,2014,2,34,R32,True,MVC
+Julius Randle,Kentucky,2014,1,7,2ND,True,SEC
+Jordan Clarkson,Missouri,2014,2,46,Unranked,False,SEC
+Jordan Adams,UCLA,2014,1,22,S16,True,P12
+Johnny O'Bryant III,Louisiana State,2014,2,36,Unranked,False,SEC
+Joe Harris,Virginia,2014,2,33,S16,True,ACC
+KJ McDaniels,Clemson,2014,2,32,Unranked,False,ACC
+Kyle Anderson,UCLA,2014,1,30,S16,True,P12
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Jamaal Franklin,San Diego State,2013,2,41,R32,True,MWC
+Jabari Parker,Duke,2014,1,2,R64,True,ACC
+Isaiah Canaan,Murray State,2013,2,34,Unranked,False,OVC
+James Ennis III,Long Beach State,2013,2,50,Unranked,False,BW
+Jerami Grant,Syracuse,2014,2,39,R32,True,ACC
+Jeff Withey,Kansas,2013,2,39,S16,True,B12
+Jarnell Stokes,Tennessee,2014,2,35,S16,True,SEC
+James Young,Kentucky,2014,1,17,2ND,True,SEC
+Gary Harris,Michigan State,2014,1,19,E8,True,B10
+Glenn Robinson III,Michigan,2014,2,40,E8,True,B10
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Isaiah Canaan,Murray State,2013,2,34,Unranked,False,OVC
+Frank Kaminsky,Wisconsin,2015,1,9,2ND,True,B10
+Doug McDermott,Creighton,2014,1,11,R32,True,BE
+Dwight Powell,Stanford,2014,2,45,S16,True,P12
+Elfrid Payton,Louisiana-Lafayette,2014,1,10,Unranked,False,Unranked / Non-NCAA
+Erick Green,Virginia Tech,2013,2,46,Unranked,False,ACC
+Jerian Grant,Notre Dame,2015,1,19,E8,True,ACC
+Joe Harris,Virginia,2014,2,33,S16,True,ACC
+Jerami Grant,Syracuse,2014,2,39,R32,True,ACC
+Joe Young,Oregon,2015,2,43,R32,True,P12
+Johnny O'Bryant III,Louisiana State,2014,2,36,Unranked,False,SEC
+Jordan Adams,UCLA,2014,1,22,S16,True,P12
+Jordan Clarkson,Missouri,2014,2,46,Unranked,False,SEC
+Devyn Marble,Iowa,2014,2,56,R68,True,B10
+Jeff Withey,Kansas,2013,2,39,S16,True,B12
+Jabari Parker,Duke,2014,1,2,R64,True,ACC
+Jahlil Okafor,Duke,2015,1,3,Champions,True,ACC
+James Ennis III,Long Beach State,2013,2,50,Unranked,False,BW
+James Young,Kentucky,2014,1,17,2ND,True,SEC
+Jarell Martin,Louisiana State,2015,1,25,R64,True,SEC
+Jarnell Stokes,Tennessee,2014,2,35,S16,True,SEC
+Archie Goodwin,Kentucky,2013,1,29,Unranked,False,SEC
+Ben McLemore,Kansas,2013,1,7,S16,True,B12
+Bobby Portis,Arkansas,2015,1,22,R32,True,SEC
+Branden Dawson,Michigan State,2015,2,56,F4,True,B10
+Anthony Brown,Stanford,2015,2,34,Unranked,False,P12
+Anthony Bennett,Nevada-Las Vegas,2013,1,1,Unranked,False,Unranked / Non-NCAA
+Andrew Wiggins,Kansas,2014,1,1,R32,True,B12
+Aaron Gordon,Arizona,2014,1,4,E8,True,P12
+Adreian Payne,Michigan State,2014,1,15,E8,True,B10
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Andre Roberson,Colorado,2013,1,26,R64,True,P12
+Allen Crabbe,California,2013,2,31,R32,True,P12
+D'Angelo Russell,Ohio State,2015,1,2,R32,True,B10
+Darrun Hilliard,Villanova,2015,2,38,R32,True,BE
+Delon Wright,Utah,2015,1,20,S16,True,P12
+Devin Booker,Kentucky,2015,1,13,F4,True,SEC
+Cory Jefferson,Baylor,2014,2,60,S16,True,B12
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+CJ Wilcox,Washington,2014,1,28,Unranked,False,P12
+Cameron Bairstow,New Mexico,2014,2,49,R64,True,MWC
+Cameron Payne,Murray State,2015,1,14,Unranked,False,OVC
+Chris McCullough,Syracuse,2015,1,29,Unranked,False,ACC
+Cleanthony Early,Wichita State,2014,2,34,R32,True,MVC
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Jordan Mickey,Louisiana State,2015,2,33,R64,True,SEC
+Rodney Hood,Duke,2014,1,23,R64,True,ACC
+Rondae Hollis-Jefferson,Arizona,2015,1,23,E8,True,P12
+Russ Smith,Louisville,2014,2,47,S16,True,BE
+Ryan Kelly,Duke,2013,2,48,E8,True,ACC
+Sam Dekker,Wisconsin,2015,1,18,2ND,True,B10
+Shabazz Muhammad,UCLA,2013,1,14,R64,True,P12
+Shabazz Napier,Connecticut,2014,1,24,Champions,True,Amer
+Shane Larkin,Miami (FL),2013,1,18,S16,True,ACC
+Richaun Holmes,Bowling Green,2015,2,37,Unranked,False,Unranked / Non-NCAA
+PJ Hairston,North Carolina,2014,1,26,R32,True,ACC
+Pat Connaughton,Notre Dame,2015,2,41,E8,True,ACC
+Rakeem Christmas,Syracuse,2015,2,36,Unranked,False,ACC
+Rashad Vaughn,UNLV,2015,1,17,Unranked,False,MWC
+Ray McCallum,Detroit Mercy,2013,2,36,Unranked,False,Unranked / Non-NCAA
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+RJ Hunter,Georgia State,2015,1,28,R32,True,SB
+Solomon Hill,Arizona,2013,1,23,S16,True,P12
+Spencer Dinwiddie,Colorado,2014,2,38,R64,True,P12
+Trey Burke,Michigan,2013,1,9,2ND,True,B10
+Trey Lyles,Kentucky,2015,1,12,F4,True,SEC
+Tyler Ennis,Syracuse,2014,1,18,R32,True,ACC
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Willie Cauley-Stein,Kentucky,2015,1,6,F4,True,SEC
+Zach LaVine,UCLA,2014,1,13,S16,True,P12
+Jordan McRae,Tennessee,2014,2,58,S16,True,SEC
+Tyus Jones,Duke,2015,1,24,Champions,True,ACC
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+Tony Snell,New Mexico,2013,1,20,R64,True,MWC
+Stanley Johnson,Arizona,2015,1,8,E8,True,P12
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+TJ Warren,North Carolina State,2014,1,14,R64,True,ACC
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Terry Rozier,Louisville,2015,1,16,E8,True,BE
+Kyle Anderson,UCLA,2014,1,30,S16,True,P12
+Lamar Patterson,Pittsburgh,2014,2,48,R32,True,ACC
+Larry Nance Jr.,Wyoming,2015,1,27,R64,True,MWC
+Lorenzo Brown,North Carolina State,2013,2,52,R64,True,ACC
+Josh Huestis,Stanford,2014,1,29,S16,True,P12
+Josh Richardson,Tennessee,2015,2,40,Unranked,False,SEC
+Julius Randle,Kentucky,2014,1,7,2ND,True,SEC
+Justin Anderson,Virginia,2015,1,21,R32,True,ACC
+Justise Winslow,Duke,2015,1,10,Champions,True,ACC
+KJ McDaniels,Clemson,2014,2,32,Unranked,False,ACC
+Karl-Anthony Towns,Kentucky,2015,1,1,F4,True,SEC
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Kelly Oubre Jr.,Kansas,2015,1,15,R32,True,B12
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Kevon Looney,UCLA,2015,1,30,S16,True,P12
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Mitch McGary,Michigan,2014,1,21,E8,True,B10
+Montrezl Harrell,Louisville,2015,2,32,E8,True,BE
+Myles Turner,Texas,2015,1,11,R64,True,B12
+Nerlens Noel,Kentucky,2013,1,6,Unranked,False,SEC
+Nik Stauskas,Michigan,2014,1,8,E8,True,B10
+Noah Vonleh,Indiana,2014,1,9,Unranked,False,B10
+Norman Powell,UCLA,2015,2,46,S16,True,P12
+Marcus Smart,Oklahoma State,2014,1,6,R64,True,B12
+Michael Carter-Williams,Syracuse,2013,1,11,F4,True,ACC
+Markel Brown,Oklahoma State,2014,2,44,R64,True,B12
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Michael Carter-Williams,Syracuse,2013,1,11,F4,True,ACC
+Michael Gbinije,Syracuse,2016,2,49,F4,True,ACC
+Marquese Chriss,Washington,2016,1,8,Unranked,False,P12
+Marcus Smart,Oklahoma State,2014,1,6,R64,True,B12
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+Pascal Siakam,New Mexico State,2016,1,27,Unranked,False,WAC
+Norman Powell,UCLA,2015,2,46,S16,True,P12
+Noah Vonleh,Indiana,2014,1,9,Unranked,False,B10
+Nik Stauskas,Michigan,2014,1,8,E8,True,B10
+Nerlens Noel,Kentucky,2013,1,6,Unranked,False,SEC
+Myles Turner,Texas,2015,1,11,R64,True,B12
+Montrezl Harrell,Louisville,2015,2,32,E8,True,BE
+Malik Beasley,Florida State,2016,1,19,Unranked,False,ACC
+Kevon Looney,UCLA,2015,1,30,S16,True,P12
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Kelly Oubre Jr.,Kansas,2015,1,15,R32,True,B12
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Karl-Anthony Towns,Kentucky,2015,1,1,F4,True,SEC
+Justise Winslow,Duke,2015,1,10,Champions,True,ACC
+Justin Anderson,Virginia,2015,1,21,R32,True,ACC
+Julius Randle,Kentucky,2014,1,7,2ND,True,SEC
+Josh Richardson,Tennessee,2015,2,40,Unranked,False,SEC
+Pat Connaughton,Notre Dame,2015,2,41,E8,True,ACC
+Josh Huestis,Stanford,2014,1,29,S16,True,P12
+KJ McDaniels,Clemson,2014,2,32,Unranked,False,ACC
+Kris Dunn,Providence,2016,1,5,R32,True,BE
+Malcolm Brogdon,Virginia,2016,2,36,E8,True,ACC
+Malachi Richardson,Syracuse,2016,1,22,F4,True,ACC
+Larry Nance Jr.,Wyoming,2015,1,27,R64,True,MWC
+Lamar Patterson,Pittsburgh,2014,2,48,R32,True,ACC
+Kyle Anderson,UCLA,2014,1,30,S16,True,P12
+Zach LaVine,UCLA,2014,1,13,S16,True,P12
+Patrick McCaw,Nevada-Las Vegas,2016,2,38,Unranked,False,Unranked / Non-NCAA
+Tony Snell,New Mexico,2013,1,20,R64,True,MWC
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Terry Rozier,Louisville,2015,1,16,E8,True,BE
+Taurean Prince,Baylor,2016,1,12,R64,True,B12
+TJ Warren,North Carolina State,2014,1,14,R64,True,ACC
+Trey Burke,Michigan,2013,1,9,2ND,True,B10
+Trey Lyles,Kentucky,2015,1,12,F4,True,SEC
+Willie Cauley-Stein,Kentucky,2015,1,6,F4,True,SEC
+Wade Baldwin IV,Vanderbilt,2016,1,17,R68,True,SEC
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Tyus Jones,Duke,2015,1,24,Champions,True,ACC
+Tyler Ulis,Kentucky,2016,2,34,R32,True,SEC
+Tyler Ennis,Syracuse,2014,1,18,R32,True,ACC
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+Richaun Holmes,Bowling Green,2015,2,37,Unranked,False,Unranked / Non-NCAA
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+Rashad Vaughn,UNLV,2015,1,17,Unranked,False,MWC
+Rodney Hood,Duke,2014,1,23,R64,True,ACC
+RJ Hunter,Georgia State,2015,1,28,R32,True,SB
+Pierre Jackson,Baylor,2013,2,42,Unranked,False,B12
+Rakeem Christmas,Syracuse,2015,2,36,Unranked,False,ACC
+Stanley Johnson,Arizona,2015,1,8,E8,True,P12
+Spencer Dinwiddie,Colorado,2014,2,38,R64,True,P12
+Solomon Hill,Arizona,2013,1,23,S16,True,P12
+Skal Labissiere,Kentucky,2016,1,28,R32,True,SEC
+Shabazz Napier,Connecticut,2014,1,24,Champions,True,Amer
+Shabazz Muhammad,UCLA,2013,1,14,R64,True,P12
+Semaj Christon,Xavier,2014,2,55,R68,True,BE
+Sam Dekker,Wisconsin,2015,1,18,2ND,True,B10
+Ryan Kelly,Duke,2013,2,48,E8,True,ACC
+Rondae Hollis-Jefferson,Arizona,2015,1,23,E8,True,P12
+Stephen Zimmerman,Nevada-Las Vegas,2016,2,41,Unranked,False,Unranked / Non-NCAA
+Jordan Mickey,Louisiana State,2015,2,33,R64,True,SEC
+D'Angelo Russell,Ohio State,2015,1,2,R32,True,B10
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Damian Jones,Vanderbilt,2016,1,30,R68,True,SEC
+Chris McCullough,Syracuse,2015,1,29,Unranked,False,ACC
+Chinanu Onuaku,Louisville,2016,2,37,Unranked,False,BE
+Cheick Diallo,Kansas,2016,2,33,E8,True,B12
+Caris LeVert,Michigan,2016,1,20,R64,True,B10
+Cameron Payne,Murray State,2015,1,14,Unranked,False,OVC
+CJ Wilcox,Washington,2014,1,28,Unranked,False,P12
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+Denzel Valentine,Michigan State,2016,1,14,R64,True,B10
+Demetrius Jackson,Notre Dame,2016,2,45,E8,True,ACC
+Delon Wright,Utah,2015,1,20,S16,True,P12
+Dejounte Murray,Washington,2016,1,29,Unranked,False,P12
+DeAndre' Bembry,Saint Joseph's,2016,1,21,R32,True,A10
+Darrun Hilliard,Villanova,2015,2,38,R32,True,BE
+Buddy Hield,Oklahoma,2016,1,6,F4,True,B12
+Andrew Wiggins,Kansas,2014,1,1,R32,True,B12
+Andrew Harrison,Kentucky,2015,2,44,F4,True,SEC
+Andre Roberson,Colorado,2013,1,26,R64,True,P12
+Allen Crabbe,California,2013,2,31,R32,True,P12
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Adreian Payne,Michigan State,2014,1,15,E8,True,B10
+Aaron Gordon,Arizona,2014,1,4,E8,True,P12
+AJ Hammons,Purdue,2016,2,46,R64,True,B10
+Jordan McRae,Tennessee,2014,2,58,S16,True,SEC
+Anthony Bennett,Nevada-Las Vegas,2013,1,1,Unranked,False,Unranked / Non-NCAA
+Anthony Brown,Stanford,2015,2,34,Unranked,False,P12
+Brice Johnson,North Carolina,2016,1,25,2ND,True,ACC
+Brandon Ingram,Duke,2016,1,2,S16,True,ACC
+Bobby Portis,Arkansas,2015,1,22,R32,True,SEC
+Ben McLemore,Kansas,2013,1,7,S16,True,B12
+Ben Bentil,Providence,2016,2,51,R32,True,BE
+Archie Goodwin,Kentucky,2013,1,29,Unranked,False,SEC
+Jaylen Brown,California,2016,1,3,R64,True,P12
+Jarnell Stokes,Tennessee,2014,2,35,S16,True,SEC
+Jarell Martin,Louisiana State,2015,1,25,R64,True,SEC
+James Young,Kentucky,2014,1,17,2ND,True,SEC
+James Ennis III,Long Beach State,2013,2,50,Unranked,False,BW
+Jamal Murray,Kentucky,2016,1,7,R32,True,SEC
+Jakob Poeltl,Utah,2016,1,9,R32,True,P12
+Jake Layman,Maryland,2016,2,47,S16,True,B10
+Jahlil Okafor,Duke,2015,1,3,Champions,True,ACC
+Jabari Parker,Duke,2014,1,2,R64,True,ACC
+Jerami Grant,Syracuse,2014,2,39,R32,True,ACC
+Devin Booker,Kentucky,2015,1,13,F4,True,SEC
+Jordan Clarkson,Missouri,2014,2,46,Unranked,False,SEC
+Johnny O'Bryant III,Louisiana State,2014,2,36,Unranked,False,SEC
+Joel Embiid,Kansas,2014,1,3,R32,True,B12
+Joel Bolomboy,Weber State,2016,2,52,R64,True,BSky
+Joe Young,Oregon,2015,2,43,R32,True,P12
+Joe Harris,Virginia,2014,2,33,S16,True,ACC
+Jerian Grant,Notre Dame,2015,1,19,E8,True,ACC
+Jeff Withey,Kansas,2013,2,39,S16,True,B12
+Frank Kaminsky,Wisconsin,2015,1,9,2ND,True,B10
+Elfrid Payton,Louisiana-Lafayette,2014,1,10,Unranked,False,Unranked / Non-NCAA
+Doug McDermott,Creighton,2014,1,11,R32,True,BE
+Domantas Sabonis,Gonzaga,2016,1,11,S16,True,WCC
+Diamond Stone,Maryland,2016,2,40,S16,True,B10
+Deyonta Davis,Michigan State,2016,2,31,R64,True,B10
+Dwight Powell,Stanford,2014,2,45,S16,True,P12
+Gary Harris,Michigan State,2014,1,19,E8,True,B10
+Isaiah Whitehead,Seton Hall,2016,2,42,R64,True,BE
+Isaiah Canaan,Murray State,2013,2,34,Unranked,False,OVC
+Henry Ellenson,Marquette,2016,1,18,Unranked,False,BE
+Glenn Robinson III,Michigan,2014,2,40,E8,True,B10
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Georges Niang,Iowa State,2016,2,50,S16,True,B12
+Marquese Chriss,Washington,2016,1,8,Unranked,False,P12
+Malik Beasley,Florida State,2016,1,19,Unranked,False,ACC
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Markelle Fultz,Washington,2017,1,1,Unranked,False,P12
+Markel Brown,Oklahoma State,2014,2,44,R64,True,B12
+Marcus Smart,Oklahoma State,2014,1,6,R64,True,B12
+Marcus Paige,North Carolina,2016,2,55,2ND,True,ACC
+Malik Monk,Kentucky,2017,1,11,E8,True,SEC
+Nik Stauskas,Michigan,2014,1,8,E8,True,B10
+Michael Carter-Williams,Syracuse,2013,1,11,F4,True,ACC
+Norman Powell,UCLA,2015,2,46,S16,True,P12
+Noah Vonleh,Indiana,2014,1,9,Unranked,False,B10
+Nerlens Noel,Kentucky,2013,1,6,Unranked,False,SEC
+Myles Turner,Texas,2015,1,11,R64,True,B12
+Montrezl Harrell,Louisville,2015,2,32,E8,True,BE
+Monte Morris,Iowa State,2017,2,51,R32,True,B12
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Nate Wolters,South Dakota State,2013,2,38,R64,True,Sum
+Malcolm Brogdon,Virginia,2016,2,36,E8,True,ACC
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Kelly Oubre Jr.,Kansas,2015,1,15,R32,True,B12
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Karl-Anthony Towns,Kentucky,2015,1,1,F4,True,SEC
+Kadeem Allen,Arizona,2017,2,53,S16,True,P12
+Kevon Looney,UCLA,2015,1,30,S16,True,P12
+Justise Winslow,Duke,2015,1,10,Champions,True,ACC
+Justin Jackson,North Carolina,2017,1,15,Champions,True,ACC
+Justin Anderson,Virginia,2015,1,21,R32,True,ACC
+Julius Randle,Kentucky,2014,1,7,2ND,True,SEC
+Josh Richardson,Tennessee,2015,2,40,Unranked,False,SEC
+Josh Jackson,Kansas,2017,1,4,E8,True,B12
+Josh Huestis,Stanford,2014,1,29,S16,True,P12
+Josh Hart,Villanova,2017,1,30,R32,True,BE
+OG Anunoby,Indiana,2017,1,23,Unranked,False,B10
+Justin Patton,Creighton,2017,1,16,R64,True,BE
+Malachi Richardson,Syracuse,2016,1,22,F4,True,ACC
+Luke Kennard,Duke,2017,1,12,R32,True,ACC
+Lorenzo Brown,North Carolina State,2013,2,52,R64,True,ACC
+Lonzo Ball,UCLA,2017,1,2,S16,True,P12
+Lauri Markkanen,Arizona,2017,1,7,S16,True,P12
+Larry Nance Jr.,Wyoming,2015,1,27,R64,True,MWC
+Kyle Kuzma,Utah,2017,1,27,Unranked,False,P12
+Kyle Anderson,UCLA,2014,1,30,S16,True,P12
+Kris Dunn,Providence,2016,1,5,R32,True,BE
+Wes Iwundu,Kansas State,2017,2,33,R64,True,B12
+Trey Lyles,Kentucky,2015,1,12,F4,True,SEC
+Trey Burke,Michigan,2013,1,9,2ND,True,B10
+Tony Snell, ,2013,1,20,Unranked,False,Unranked / Non-NCAA
+Tyler Dorsey,Oregon,2017,2,41,F4,True,P12
+Tony Bradley,North Carolina,2017,1,28,Champions,True,ACC
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Thomas Bryant,Indiana,2017,2,42,Unranked,False,B10
+Terry Rozier,Louisville,2015,1,16,E8,True,BE
+Taurean Prince,Baylor,2016,1,12,R64,True,B12
+Tyler Ennis,Syracuse,2014,1,18,R32,True,ACC
+Tyler Lydon,Syracuse,2017,1,24,Unranked,False,ACC
+Zach LaVine,UCLA,2014,1,13,S16,True,P12
+Zach Collins,Gonzaga,2017,1,10,2ND,True,WCC
+Willie Cauley-Stein,Kentucky,2015,1,6,F4,True,SEC
+Wade Baldwin IV,Vanderbilt,2016,1,17,R68,True,SEC
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Tyus Jones,Duke,2015,1,24,Champions,True,ACC
+Tyrone Wallace,California,2016,2,60,R64,True,P12
+Tyler Ulis,Kentucky,2016,2,34,R32,True,SEC
+TJ Leaf,UCLA,2017,1,18,S16,True,P12
+Richaun Holmes,Bowling Green,2015,2,37,Unranked,False,Unranked / Non-NCAA
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+Rashad Vaughn,Nevada-Las Vegas,2015,1,17,Unranked,False,Unranked / Non-NCAA
+RJ Hunter,Georgia State,2015,1,28,R32,True,SB
+Patrick McCaw,UNLV,2016,2,38,Unranked,False,MWC
+Pat Connaughton,Notre Dame,2015,2,41,E8,True,ACC
+Pascal Siakam,New Mexico State,2016,1,27,Unranked,False,WAC
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+Rodney Hood,Duke,2014,1,23,R64,True,ACC
+T.J. Warren,North Carolina State,2014,1,14,R64,True,ACC
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+Sterling Brown,Southern Methodist,2017,2,46,Unranked,False,Unranked / Non-NCAA
+Stanley Johnson,Arizona,2015,1,8,E8,True,P12
+Spencer Dinwiddie,Colorado,2014,2,38,R64,True,P12
+Solomon Hill,Arizona,2013,1,23,S16,True,P12
+Skal Labissiere,Kentucky,2016,1,28,R32,True,SEC
+Sindarius Thornwell,South Carolina,2017,2,48,F4,True,SEC
+Shane Larkin,Miami,2013,1,18,Unranked,False,Unranked / Non-NCAA
+Shabazz Napier,Connecticut,2014,1,24,Champions,True,Amer
+Semi Ojeleye,Southern Methodist,2017,2,37,Unranked,False,Unranked / Non-NCAA
+Sam Dekker,Wisconsin,2015,1,18,2ND,True,B10
+Rondae Hollis-Jefferson,Arizona,2015,1,23,E8,True,P12
+Shabazz Muhammad,California-Los Angeles,2013,1,14,Unranked,False,Unranked / Non-NCAA
+Edmond Sumner,Xavier,2017,2,52,E8,True,BE
+Daniel Hamilton,Connecticut,2016,2,56,R32,True,Amer
+Damyean Dotson,Houston,2017,2,44,Unranked,False,Amer
+Damian Jones,Vanderbilt,2016,1,30,R68,True,SEC
+Dakari Johnson,Kentucky,2015,2,48,F4,True,SEC
+D.J. Wilson,Michigan,2017,1,17,S16,True,B10
+D'Angelo Russell,Ohio State,2015,1,2,R32,True,B10
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Chris McCullough,Syracuse,2015,1,29,Unranked,False,ACC
+Chinanu Onuaku,Louisville,2016,2,37,Unranked,False,BE
+Cheick Diallo,Kansas,2016,2,33,E8,True,B12
+Devin Booker,Kentucky,2015,1,13,F4,True,SEC
+Derrick White,Colorado,2017,1,29,Unranked,False,P12
+Denzel Valentine,Michigan State,2016,1,14,R64,True,B10
+Dennis Smith Jr.,North Carolina State,2017,1,9,Unranked,False,ACC
+Demetrius Jackson,Notre Dame,2016,2,45,E8,True,ACC
+Delon Wright,Utah,2015,1,20,S16,True,P12
+De'Aaron Fox,Kentucky,2017,1,5,E8,True,SEC
+Davon Reed,Miami,2017,2,32,Unranked,False,Unranked / Non-NCAA
+Darrun Hilliard,Villanova,2015,2,38,R32,True,BE
+Dejounte Murray,Washington,2016,1,29,Unranked,False,P12
+Caris LeVert,Michigan,2016,1,20,R64,True,B10
+Anthony Brown,Stanford,2015,2,34,Unranked,False,P12
+Andrew Wiggins,Kansas,2014,1,1,R32,True,B12
+Andrew Harrison,Kentucky,2015,2,44,F4,True,SEC
+Andre Roberson,Colorado,2013,1,26,R64,True,P12
+Allen Crabbe,California,2013,2,31,R32,True,P12
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Alec Peters,Valparaiso,2017,2,54,Unranked,False,Horz
+Adreian Payne,Michigan State,2014,1,15,E8,True,B10
+Abdel Nader,Iowa State,2016,2,58,S16,True,B12
+Aaron Gordon,Arizona,2014,1,4,E8,True,P12
+Deyonta Davis,Michigan State,2016,2,31,R64,True,B10
+Cameron Payne,Murray State,2015,1,14,Unranked,False,OVC
+Caleb Swanigan,Purdue,2017,1,26,S16,True,B10
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+Buddy Hield,Oklahoma,2016,1,6,F4,True,B12
+Brice Johnson,North Carolina,2016,1,25,2ND,True,ACC
+Brandon Ingram,Duke,2016,1,2,S16,True,ACC
+Bobby Portis,Arkansas,2015,1,22,R32,True,SEC
+Ben Simmons,Louisiana State,2016,1,1,Unranked,False,SEC
+Ben McLemore,Kansas,2013,1,7,S16,True,B12
+Dillon Brooks,Oregon,2017,2,45,F4,True,P12
+Jaylen Brown,California,2016,1,3,R64,True,P12
+Jawun Evans,Oklahoma State,2017,2,39,R64,True,B12
+Jarrett Allen,Texas,2017,1,22,Unranked,False,B12
+Jarell Martin,Louisiana State,2015,1,25,R64,True,SEC
+James Young,Kentucky,2014,1,17,2ND,True,SEC
+Jayson Tatum,Duke,2017,1,3,R32,True,ACC
+James Ennis III,Cal State-Long Beach,2013,2,50,Unranked,False,Unranked / Non-NCAA
+Jamal Murray,Kentucky,2016,1,7,R32,True,SEC
+Jakob Poeltl,Utah,2016,1,9,R32,True,P12
+Jake Layman,Maryland,2016,2,47,S16,True,B10
+Jahlil Okafor,Duke,2015,1,3,Champions,True,ACC
+Jabari Parker,Duke,2014,1,2,R64,True,ACC
+Jeff Withey,Kansas,2013,2,39,S16,True,B12
+Jordan Clarkson,Missouri,2014,2,46,Unranked,False,SEC
+Jordan Bell,Oregon,2017,2,38,F4,True,P12
+Jonathan Isaac,Florida State,2017,1,6,R32,True,ACC
+Johnny O'Bryant III,Louisiana State,2014,2,36,Unranked,False,SEC
+John Collins,Wake Forest,2017,1,19,R68,True,ACC
+Joel Bolomboy,Weber State,2016,2,52,R64,True,BSky
+Joe Young,Oregon,2015,2,43,R32,True,P12
+Joe Harris,Virginia,2014,2,33,S16,True,ACC
+Jerian Grant,Notre Dame,2015,1,19,E8,True,ACC
+Jerami Grant,Syracuse,2014,2,39,R32,True,ACC
+Joel Embiid,Kansas,2014,1,3,R32,True,B12
+Jordan Mickey,Louisiana State,2015,2,33,R64,True,SEC
+Jabari Bird,California,2017,2,56,Unranked,False,P12
+Frank Mason,Kansas,2017,2,34,E8,True,B12
+Frank Kaminsky,Wisconsin,2015,1,9,2ND,True,B10
+Dwight Powell,Stanford,2014,2,45,S16,True,P12
+Dwayne Bacon,Florida State,2017,2,40,R32,True,ACC
+Doug McDermott,Creighton,2014,1,11,R32,True,BE
+Donovan Mitchell,Louisville,2017,1,13,R32,True,BE
+Domantas Sabonis,Gonzaga,2016,1,11,S16,True,WCC
+Elfrid Payton,Louisana-Lafayette,2014,1,10,Unranked,False,Unranked / Non-NCAA
+Gary Harris,Michigan State,2014,1,19,E8,True,B10
+Ivan Rabb,"University of California, Berkeley",2017,2,35,Unranked,False,Unranked / Non-NCAA
+Isaiah Whitehead,Seton Hall,2016,2,42,R64,True,BE
+Isaiah Canaan,Murray State,2013,2,34,Unranked,False,OVC
+Ike Anigbogu,UCLA,2017,2,47,S16,True,P12
+Henry Ellenson,Marquette,2016,1,18,Unranked,False,BE
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Glenn Robinson III,Michigan,2014,2,40,E8,True,B10
+Georges Niang,Iowa State,2016,2,50,S16,True,B12
+Bam Adebayo,Kentucky,2017,1,14,E8,True,SEC
+Frank Mason,Kansas,2017,2,34,E8,True,B12
+Gary Harris,Michigan State,2014,1,19,E8,True,B10
+George King,University of Colorado Boulder,2018,2,59,Unranked,False,Unranked / Non-NCAA
+Georges Niang,Iowa State,2016,2,50,S16,True,B12
+Glenn Robinson III,Michigan,2014,2,40,E8,True,B10
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Grayson Allen,Duke,2018,1,21,E8,True,ACC
+Hamidou Diallo,Kentucky,2018,2,45,S16,True,SEC
+Harry Giles III,Duke,2017,1,20,R32,True,ACC
+Henry Ellenson,Marquette,2016,1,18,Unranked,False,BE
+Frank Kaminsky,Wisconsin,2015,1,9,2ND,True,B10
+Ike Anigbogu,UCLA,2017,2,47,S16,True,P12
+Frank Jackson,Duke,2017,2,31,R32,True,ACC
+Donovan Mitchell,Louisville,2017,1,13,R32,True,BE
+Donte DiVincenzo,Villanova,2018,1,17,Champions,True,BE
+Doug McDermott,Creighton,2014,1,11,R32,True,BE
+Dwayne Bacon,Florida State,2017,2,40,R32,True,ACC
+Dwight Powell,Stanford,2014,2,45,S16,True,P12
+Edmond Sumner,Xavier,2017,2,52,E8,True,BE
+Elfrid Payton,Louisana-Lafayette,2014,1,10,Unranked,False,Unranked / Non-NCAA
+Jarred Vanderbilt,Kentucky,2018,2,41,S16,True,SEC
+Jarrett Allen,Texas,2017,1,22,Unranked,False,B12
+Jawun Evans,Oklahoma State,2017,2,39,R64,True,B12
+Jaylen Brown,California,2016,1,3,R64,True,P12
+Jayson Tatum,Duke,2017,1,3,R32,True,ACC
+Jerami Grant,Syracuse,2014,2,39,R32,True,ACC
+Jerian Grant,Notre Dame,2015,1,19,E8,True,ACC
+Jerome Robinson,Boston College,2018,1,13,Unranked,False,Unranked / Non-NCAA
+Jevon Carter,West Virginia,2018,2,32,S16,True,B12
+Joe Harris,Virginia,2014,2,33,S16,True,ACC
+Joel Embiid,Kansas,2014,1,3,R32,True,B12
+John Collins,Wake Forest,2017,1,19,R68,True,ACC
+Jaron Blossomgame,Clemson,2017,2,59,Unranked,False,ACC
+Jaren Jackson Jr.,Michigan State,2018,1,4,R32,True,B10
+Jarell Martin,Louisiana State,2015,1,25,R64,True,SEC
+Isaiah Canaan,Murray State,2013,2,34,Unranked,False,OVC
+Ivan Rabb,"University of California, Berkeley",2017,2,35,Unranked,False,Unranked / Non-NCAA
+Domantas Sabonis,Gonzaga,2016,1,11,S16,True,WCC
+Jacob Evans,Cincinnati,2018,1,28,R32,True,Amer
+Jahlil Okafor,Duke,2015,1,3,Champions,True,ACC
+Jake Layman,Maryland,2016,2,47,S16,True,B10
+Jakob Poeltl,Utah,2016,1,9,R32,True,P12
+Jalen Brunson,Villanova,2018,2,33,Champions,True,BE
+Jamal Murray,Kentucky,2016,1,7,R32,True,SEC
+James Ennis III,Cal State-Long Beach,2013,2,50,Unranked,False,Unranked / Non-NCAA
+Jabari Parker,Duke,2014,1,2,R64,True,ACC
+Dillon Brooks,Oregon,2017,2,45,F4,True,P12
+Bam Adebayo,Kentucky,2017,1,14,E8,True,SEC
+Ben McLemore,Kansas,2013,1,7,S16,True,B12
+Ben Simmons,Louisiana State,2016,1,1,Unranked,False,SEC
+Bobby Portis,Arkansas,2015,1,22,R32,True,SEC
+Brandon Ingram,Duke,2016,1,2,S16,True,ACC
+Bruce Brown,Miami,2018,2,42,Unranked,False,Unranked / Non-NCAA
+Buddy Hield,Oklahoma,2016,1,6,F4,True,B12
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+Caleb Swanigan,Purdue,2017,1,26,S16,True,B10
+Cameron Payne,Murray State,2015,1,14,Unranked,False,OVC
+Caris LeVert,Michigan,2016,1,20,R64,True,B10
+Zhaire Smith,Texas Tech,2018,1,16,E8,True,B12
+Aaron Gordon,Arizona,2014,1,4,E8,True,P12
+Aaron Holiday,UCLA,2018,1,23,R68,True,P12
+Abdel Nader,Iowa State,2016,2,58,S16,True,B12
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Alize Johnson,Missouri State,2018,2,50,Unranked,False,Unranked / Non-NCAA
+Allen Crabbe,California,2013,2,31,R32,True,P12
+Andrew Harrison,Kentucky,2015,2,44,F4,True,SEC
+Andrew Wiggins,Kansas,2014,1,1,R32,True,B12
+Chandler Hutchison,Boise State,2018,1,22,Unranked,False,MWC
+Davon Reed,Miami,2017,2,32,Unranked,False,Unranked / Non-NCAA
+De'Aaron Fox,Kentucky,2017,1,5,E8,True,SEC
+De'Anthony Melton,USC,2018,2,46,Unranked,False,P12
+Deandre Ayton,Arizona,2018,1,1,R64,True,P12
+Delon Wright,Utah,2015,1,20,S16,True,P12
+Demetrius Jackson,Notre Dame,2016,2,45,E8,True,ACC
+Dennis Smith Jr.,North Carolina State,2017,1,9,Unranked,False,ACC
+Derrick White,Colorado,2017,1,29,Unranked,False,P12
+Devin Booker,Kentucky,2015,1,13,F4,True,SEC
+Devonte' Graham,Kansas,2018,2,34,F4,True,B12
+Deyonta Davis,Michigan State,2016,2,31,R64,True,B10
+Cheick Diallo,Kansas,2016,2,33,E8,True,B12
+Chimezie Metu,USC,2018,2,49,Unranked,False,P12
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Collin Sexton,Alabama,2018,1,8,R32,True,SEC
+D'Angelo Russell,Ohio State,2015,1,2,R32,True,B10
+D.J. Wilson,Michigan,2017,1,17,S16,True,B10
+Damian Jones,Vanderbilt,2016,1,30,R68,True,SEC
+Damyean Dotson,Houston,2017,2,44,Unranked,False,Amer
+Daniel Hamilton,Connecticut,2016,2,56,R32,True,Amer
+Sam Dekker,Wisconsin,2015,1,18,2ND,True,B10
+Semi Ojeleye,Southern Methodist,2017,2,37,Unranked,False,Unranked / Non-NCAA
+Shabazz Napier,Connecticut,2014,1,24,Champions,True,Amer
+Shai Gilgeous-Alexander,Kentucky,2018,1,11,S16,True,SEC
+Shake Milton,Southern Methodist,2018,2,54,Unranked,False,Unranked / Non-NCAA
+Sindarius Thornwell,South Carolina,2017,2,48,F4,True,SEC
+Skal Labissiere,Kentucky,2016,1,28,R32,True,SEC
+Solomon Hill,Arizona,2013,1,23,S16,True,P12
+Spencer Dinwiddie,Colorado,2014,2,38,R64,True,P12
+Stanley Johnson,Arizona,2015,1,8,E8,True,P12
+Sterling Brown,Southern Methodist,2017,2,46,Unranked,False,Unranked / Non-NCAA
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+Svi Mykhailiuk,Kansas,2018,2,47,F4,True,B12
+T.J. Warren,North Carolina State,2014,1,14,R64,True,ACC
+TJ Leaf,UCLA,2017,1,18,S16,True,P12
+Pascal Siakam,New Mexico State,2016,1,27,Unranked,False,WAC
+Pat Connaughton,Notre Dame,2015,2,41,E8,True,ACC
+Patrick McCaw,UNLV,2016,2,38,Unranked,False,MWC
+RJ Hunter,Georgia State,2015,1,28,R32,True,SB
+Ray Spalding,Louisville,2018,2,56,Unranked,False,BE
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+Richaun Holmes,Bowling Green,2015,2,37,Unranked,False,Unranked / Non-NCAA
+Robert Williams III,Texas A&M,2018,1,27,S16,True,SEC
+Rodney Hood,Duke,2014,1,23,R64,True,ACC
+Rondae Hollis-Jefferson,Arizona,2015,1,23,E8,True,P12
+Taurean Prince,Baylor,2016,1,12,R64,True,B12
+Tyrone Wallace,California,2016,2,60,R64,True,P12
+Tyus Jones,Duke,2015,1,24,Champions,True,ACC
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Vincent Edwards,Purdue,2018,2,52,S16,True,B10
+Wade Baldwin IV,Vanderbilt,2016,1,17,R68,True,SEC
+Wendell Carter Jr.,Duke,2018,1,7,E8,True,ACC
+Wes Iwundu,Kansas State,2017,2,33,R64,True,B12
+Willie Cauley-Stein,Kentucky,2015,1,6,F4,True,SEC
+Zach Collins,Gonzaga,2017,1,10,2ND,True,WCC
+Zach LaVine,UCLA,2014,1,13,S16,True,P12
+Tyler Ulis,Kentucky,2016,2,34,R32,True,SEC
+Tyler Lydon,Syracuse,2017,1,24,Unranked,False,ACC
+Tyler Dorsey,Oregon,2017,2,41,F4,True,P12
+Terry Rozier,Louisville,2015,1,16,E8,True,BE
+Thomas Bryant,Indiana,2017,2,42,Unranked,False,B10
+Thomas Welsh,UCLA,2018,2,58,R68,True,P12
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Tony Bradley,North Carolina,2017,1,28,Champions,True,ACC
+Trae Young,Oklahoma,2018,1,5,R64,True,B12
+Trey Burke,Michigan,2013,1,9,2ND,True,B10
+Trey Lyles,Kentucky,2015,1,12,F4,True,SEC
+Troy Brown Jr.,Oregon,2018,1,15,Unranked,False,P12
+Tony Snell, ,2013,1,20,Unranked,False,Unranked / Non-NCAA
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+Omari Spellman,Villanova,2018,1,30,Champions,True,BE
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Kevin Huerter,Maryland,2018,1,19,Unranked,False,B10
+Kevin Knox II,Kentucky,2018,1,9,S16,True,SEC
+Kevon Looney,UCLA,2015,1,30,S16,True,P12
+Khyri Thomas,Creighton,2018,2,38,R64,True,BE
+Kostas Antetokounmpo,University of Dayton,2018,2,60,Unranked,False,A10
+Kris Dunn,Providence,2016,1,5,R32,True,BE
+Kyle Anderson,UCLA,2014,1,30,S16,True,P12
+Kyle Kuzma,Utah,2017,1,27,Unranked,False,P12
+Landry Shamet,Wichita State,2018,1,26,R64,True,MVC
+Larry Nance Jr.,Wyoming,2015,1,27,R64,True,MWC
+Kelly Oubre Jr.,Kansas,2015,1,15,R32,True,B12
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Keita Bates-Diop,Ohio State,2018,2,48,R32,True,B10
+Jonathan Isaac,Florida State,2017,1,6,R32,True,ACC
+Jordan Bell,Oregon,2017,2,38,F4,True,P12
+Jordan Clarkson,Missouri,2014,2,46,Unranked,False,SEC
+Jordan McRae,Tennessee,2014,2,58,S16,True,SEC
+Josh Hart,Villanova,2017,1,30,R32,True,BE
+Lauri Markkanen,Arizona,2017,1,7,S16,True,P12
+Josh Jackson,Kansas,2017,1,4,E8,True,B12
+Josh Richardson,Tennessee,2015,2,40,Unranked,False,SEC
+Julius Randle,Kentucky,2014,1,7,2ND,True,SEC
+Justin Anderson,Virginia,2015,1,21,R32,True,ACC
+Justin Jackson,North Carolina,2017,1,15,Champions,True,ACC
+Justin Patton,Creighton,2017,1,16,R64,True,BE
+Justise Winslow,Duke,2015,1,10,Champions,True,ACC
+Karl-Anthony Towns,Kentucky,2015,1,1,F4,True,SEC
+Josh Okogie,Georgia Institute of Technology,2018,1,20,Unranked,False,Unranked / Non-NCAA
+Kadeem Allen,Arizona,2017,2,53,S16,True,P12
+Lonzo Ball,UCLA,2017,1,2,S16,True,P12
+Mikal Bridges,Villanova,2018,1,10,Champions,True,BE
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Miles Bridges,Michigan State,2018,1,12,R32,True,B10
+Mo Bamba,University of Texas at Austin,2018,1,6,Unranked,False,Unranked / Non-NCAA
+Monte Morris,Iowa State,2017,2,51,R32,True,B12
+Montrezl Harrell,Louisville,2015,2,32,E8,True,BE
+Moritz Wagner,Michigan,2018,1,25,2ND,True,B10
+Nerlens Noel,Kentucky,2013,1,6,Unranked,False,SEC
+Nik Stauskas,Michigan,2014,1,8,E8,True,B10
+Noah Vonleh,Indiana,2014,1,9,Unranked,False,B10
+Norman Powell,UCLA,2015,2,46,S16,True,P12
+Lonnie Walker IV,Miami,2018,1,18,Unranked,False,Unranked / Non-NCAA
+OG Anunoby,Indiana,2017,1,23,Unranked,False,B10
+Michael Carter-Williams,Syracuse,2013,1,11,F4,True,ACC
+Myles Turner,Texas,2015,1,11,R64,True,B12
+Melvin Frazier Jr.,Tulane,2018,2,35,Unranked,False,Unranked / Non-NCAA
+Lorenzo Brown,North Carolina State,2013,2,52,R64,True,ACC
+Luke Kennard,Duke,2017,1,12,R32,True,ACC
+Malachi Richardson,Syracuse,2016,1,22,F4,True,ACC
+Malcolm Brogdon,Virginia,2016,2,36,E8,True,ACC
+Malik Beasley,Florida State,2016,1,19,Unranked,False,ACC
+Malik Monk,Kentucky,2017,1,11,E8,True,SEC
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Marvin Bagley III,Duke,2018,1,2,E8,True,ACC
+Marquese Chriss,Washington,2016,1,8,Unranked,False,P12
+Markelle Fultz,Washington,2017,1,1,Unranked,False,P12
+Marcus Smart,Oklahoma State,2014,1,6,R64,True,B12
+Jabari Parker,Duke,2014,1,2,R64,True,ACC
+James Ennis III,California State-Long Beach,2013,2,50,Unranked,False,Unranked / Non-NCAA
+Jamal Murray,Kentucky,2016,1,7,R32,True,SEC
+Jalen McDaniels,San Diego State,2019,2,52,Unranked,False,MWC
+Jalen Brunson,Villanova,2018,2,33,Champions,True,BE
+Jakob Poeltl,Utah,2016,1,9,R32,True,P12
+Jake Layman,Maryland,2016,2,47,S16,True,B10
+Jahlil Okafor,Duke,2015,1,3,Champions,True,ACC
+Jacob Evans,Cincinnati,2018,1,28,R32,True,Amer
+Jarred Vanderbilt,Kentucky,2018,2,41,S16,True,SEC
+Jerian Grant,Notre Dame,2015,1,19,E8,True,ACC
+Jerami Grant,Syracuse,2014,2,39,R32,True,ACC
+Jayson Tatum,Duke,2017,1,3,R32,True,ACC
+Jaylen Nowell,Washington,2019,2,43,R32,True,P12
+Jaylen Brown,California,2016,1,3,R64,True,P12
+Jaxson Hayes,Texas-Austin,2019,1,8,Unranked,False,Unranked / Non-NCAA
+Jarrett Culver,Texas Tech,2019,1,6,2ND,True,B12
+Jarrett Allen,Texas-Austin,2017,1,22,Unranked,False,Unranked / Non-NCAA
+Jarrell Brantley,College of Charleston,2019,2,50,Unranked,False,CAA
+Jaren Jackson Jr.,Michigan State,2018,1,4,R32,True,B10
+Ja Morant,Murray State,2019,1,2,R32,True,OVC
+Glenn Robinson III,Michigan,2014,2,40,E8,True,B10
+Georges Niang,Iowa State,2016,2,50,S16,True,B12
+Gary Trent Jr.,Duke,2018,2,37,E8,True,ACC
+Gary Harris,Michigan State,2014,1,19,E8,True,B10
+Jerome Robinson,Boston College,2018,1,13,Unranked,False,Unranked / Non-NCAA
+Frank Mason,Kansas,2017,2,34,E8,True,B12
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Grant Williams,Tennessee,2019,1,22,S16,True,SEC
+J.P. Macura,Xavier,2018,0,0,R32,True,BE
+Isaiah Roby,Nebraska-Lincoln,2019,2,45,Unranked,False,Unranked / Non-NCAA
+Ignas Brazdeikis,Michigan,2019,2,47,S16,True,B10
+Henry Ellenson,Marquette,2016,1,18,Unranked,False,BE
+Harry Giles III,Duke,2017,1,20,R32,True,ACC
+Hamidou Diallo,Kentucky,2018,2,45,S16,True,SEC
+Grayson Allen,Duke,2018,1,21,E8,True,ACC
+Jevon Carter,West Virginia,2018,2,32,S16,True,B12
+Kostas Antetokounmpo,Dayton,2018,2,60,Unranked,False,A10
+Kevin Porter Jr.,Southern California,2019,1,30,Unranked,False,P12
+Kevin Knox II,Kentucky,2018,1,9,S16,True,SEC
+Kevin Huerter,Maryland,2018,1,19,Unranked,False,B10
+Kevin Hervey,Texas-Arlington,2018,2,57,Unranked,False,Unranked / Non-NCAA
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Kevon Looney,UCLA,2015,1,30,S16,True,P12
+Kelly Oubre Jr.,Kansas,2015,1,15,R32,True,B12
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Keldon Johnson,Kentucky,2019,1,29,E8,True,SEC
+Keita Bates-Diop,Ohio State,2018,2,48,R32,True,B10
+Khyri Thomas,Creighton,2018,2,38,R64,True,BE
+Larry Nance Jr.,Wyoming,2015,1,27,R64,True,MWC
+Frank Kaminsky,Wisconsin,2015,1,9,2ND,True,B10
+Landry Shamet,Wichita State,2018,1,26,R64,True,MVC
+Kyle Kuzma,Utah,2017,1,27,Unranked,False,P12
+Kyle Guy,Virginia,2019,2,55,Champions,True,ACC
+Kyle Anderson,UCLA,2014,1,30,S16,True,P12
+Kris Dunn,Providence,2016,1,5,R32,True,BE
+Karl-Anthony Towns,Kentucky,2015,1,1,F4,True,SEC
+Kadeem Allen,Arizona,2017,2,53,S16,True,P12
+KZ Okpala,Stanford,2019,2,32,Unranked,False,P12
+Jordan McRae,Tennessee,2014,2,58,S16,True,SEC
+Jordan Clarkson,Missouri,2014,2,46,Unranked,False,SEC
+Jordan Bone,Tennessee,2019,2,57,S16,True,SEC
+Jordan Bell,Oregon,2017,2,38,F4,True,P12
+Jonathan Isaac,Florida State,2017,1,6,R32,True,ACC
+Jonah Bolden,UCLA,2017,2,36,S16,True,P12
+John Collins,Wake Forest,2017,1,19,R68,True,ACC
+Joel Embiid,Kansas,2014,1,3,R32,True,B12
+Joe Harris,Virginia,2014,2,33,S16,True,ACC
+Joe Chealey,College of Charleston,2018,0,0,R64,True,CAA
+Jordan Poole,Michigan,2019,1,28,S16,True,B10
+Josh Jackson,Kansas,2017,1,4,E8,True,B12
+Justise Winslow,Duke,2015,1,10,Champions,True,ACC
+Justin Wright-Foreman,Hofstra,2019,2,53,Unranked,False,Unranked / Non-NCAA
+Justin Robinson,Virginia Tech ,2019,0,0,S16,True,ACC
+Justin Patton,Creighton,2017,1,16,R64,True,BE
+Justin James,Wyoming,2019,2,40,Unranked,False,MWC
+Justin Jackson,North Carolina,2017,1,15,Champions,True,ACC
+Justin Anderson,Virginia,2015,1,21,R32,True,ACC
+Julius Randle,Kentucky,2014,1,7,2ND,True,SEC
+Josh Richardson,Tennessee,2015,2,40,Unranked,False,SEC
+Josh Okogie,Georgia Tech,2018,1,20,Unranked,False,ACC
+Josh Hart,Villanova,2017,1,30,R32,True,BE
+Frank Jackson,Duke,2017,2,31,R32,True,ACC
+Bam Adebayo,Kentucky,2017,1,14,E8,True,SEC
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+Buddy Hield,Oklahoma,2016,1,6,F4,True,B12
+Bruno Fernando,Maryland,2019,2,34,R32,True,B10
+Caleb Swanigan,Purdue,2017,1,26,S16,True,B10
+Bruce Brown,Miami,2018,2,42,Unranked,False,Unranked / Non-NCAA
+Brandon Ingram,Duke,2016,1,2,S16,True,ACC
+Brandon Clarke,Gonzaga,2019,1,21,E8,True,WCC
+Cam Reddish,Duke,2019,1,10,E8,True,ACC
+Cameron Johnson,North Carolina,2019,1,11,S16,True,ACC
+Cameron Payne,Murray State,2015,1,14,Unranked,False,OVC
+Chimezie Metu,Southern California,2018,2,49,Unranked,False,P12
+Cheick Diallo,Kansas,2016,2,33,E8,True,B12
+Chasson Randle,Stanford,2015,0,0,Unranked,False,P12
+Chandler Hutchison,Boise State,2018,1,22,Unranked,False,MWC
+Carsen Edwards,Purdue,2019,2,33,E8,True,B10
+Caris LeVert,Michigan,2016,1,20,R64,True,B10
+Bol Bol,Oregon,2019,2,44,S16,True,P12
+Coby White,North Carolina,2019,1,7,S16,True,ACC
+Bobby Portis,Arkansas,2015,1,22,R32,True,SEC
+Allonzo Trier,Arizona,2018,0,0,R64,True,P12
+Allen Crabbe,California,2013,2,31,R32,True,P12
+Alize Johnson,Missouri State,2018,2,50,Unranked,False,Unranked / Non-NCAA
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Amile Jefferson,Duke,2017,0,0,R32,True,ACC
+Admiral Schofield,Tennessee,2019,2,42,S16,True,SEC
+Abdel Nader,Iowa State,2016,2,58,S16,True,B12
+Aaron Holiday,UCLA,2018,1,23,R68,True,P12
+Aaron Gordon,Arizona,2014,1,4,E8,True,P12
+Lauri Markkanen,Arizona,2017,1,7,S16,True,P12
+Ben Simmons,Louisiana State,2016,1,1,Unranked,False,SEC
+Ben McLemore,Kansas,2013,1,7,S16,True,B12
+Andrew Wiggins,Kansas,2014,1,1,R32,True,B12
+Andre Roberson,Colorado,2013,1,26,R64,True,P12
+Cody Martin,Nevada-Reno,2019,2,36,Unranked,False,Unranked / Non-NCAA
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Collin Sexton,Alabama,2018,1,8,R32,True,SEC
+Doug McDermott,Creighton,2014,1,11,R32,True,BE
+Donte DiVincenzo,Villanova,2018,1,17,Champions,True,BE
+Donovan Mitchell,Louisville,2017,1,13,R32,True,BE
+Domantas Sabonis,Gonzaga,2016,1,11,S16,True,WCC
+Dillon Brooks,Oregon,2017,2,45,F4,True,P12
+Dewan Hernandez,Miami,2019,2,59,Unranked,False,Unranked / Non-NCAA
+Devonte' Graham,Kansas,2018,2,34,F4,True,B12
+Devon Hall,Virginia,2018,2,53,R64,True,ACC
+Devin Booker,Kentucky,2015,1,13,F4,True,SEC
+Derrick White,Colorado,2017,1,29,Unranked,False,P12
+Eric Paschall,Villanova,2019,2,41,R32,True,BE
+Eric Mika,Brigham Young,2017,0,0,Unranked,False,Unranked / Non-NCAA
+Elfrid Payton,Louisana-Lafayette,2014,1,10,Unranked,False,Unranked / Non-NCAA
+Edmond Sumner,Xavier,2017,2,52,E8,True,BE
+Dwight Powell,Stanford,2014,2,45,S16,True,P12
+Dwayne Bacon,Florida State,2017,2,40,R32,True,ACC
+Dusty Hannahs,Arkansas,2017,0,0,R32,True,SEC
+Daniel Gafford,Arkansas,2019,2,38,Unranked,False,SEC
+Damyean Dotson,Houston,2017,2,44,Unranked,False,Amer
+Damian Jones,Vanderbilt,2016,1,30,R68,True,SEC
+D.J. Wilson,Michigan,2017,1,17,S16,True,B10
+D'Angelo Russell,Ohio State,2015,1,2,R32,True,B10
+Darius Garland,Vanderbilt,2019,1,5,Unranked,False,SEC
+Denzel Valentine,Michigan State,2016,1,14,R64,True,B10
+Dennis Smith Jr.,North Carolina State,2017,1,9,Unranked,False,ACC
+Delon Wright,Utah,2015,1,20,S16,True,P12
+Dejounte Murray,Washington,2016,1,29,Unranked,False,P12
+Deandre Ayton,Arizona,2018,1,1,R64,True,P12
+DeAndre' Bembry,St. Joseph's (PA),2016,1,21,Unranked,False,Unranked / Non-NCAA
+De'Anthony Melton,Southern California,2018,2,46,Unranked,False,P12
+De'Andre Hunter,Virginia,2019,1,4,Champions,True,ACC
+De'Aaron Fox,Kentucky,2017,1,5,E8,True,SEC
+Daryl Macon,Arkansas,2018,0,0,R64,True,SEC
+Lonzo Ball,UCLA,2017,1,2,S16,True,P12
+Sterling Brown,Southern Methodist,2017,2,46,Unranked,False,Unranked / Non-NCAA
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+Svi Mykhailiuk,Kansas,2018,2,47,F4,True,B12
+T.J. Leaf,UCLA,2017,1,18,S16,True,P12
+T.J. McConnell,Arizona,2015,0,0,E8,True,P12
+T.J. Warren,North Carolina State,2014,1,14,R64,True,ACC
+Talen Horton-Tucker,Iowa State,2019,2,46,R64,True,B12
+Taurean Prince,Baylor,2016,1,12,R64,True,B12
+Terance Mann,Florida State,2019,2,48,S16,True,ACC
+Terry Rozier,Louisville,2015,1,16,E8,True,BE
+Thomas Bryant,Indiana,2017,2,42,Unranked,False,B10
+Stanley Johnson,Arizona,2015,1,8,E8,True,P12
+Solomon Hill,Arizona,2013,1,23,S16,True,P12
+Romeo Langford,Indiana,2019,1,14,Unranked,False,B10
+Rondae Hollis-Jefferson,Arizona,2015,1,23,E8,True,P12
+Rui Hachimura,Gonzaga,2019,1,9,E8,True,WCC
+Semi Ojeleye,Southern Methodist,2017,2,37,Unranked,False,Unranked / Non-NCAA
+Shabazz Napier,Connecticut,2014,1,24,Champions,True,Amer
+Shai Gilgeous-Alexander,Kentucky,2018,1,11,S16,True,SEC
+Shake Milton,Southern Methodist,2018,2,54,Unranked,False,Unranked / Non-NCAA
+Sindarius Thornwell,South Carolina,2017,2,48,F4,True,SEC
+Skal Labissiere,Kentucky,2016,1,28,R32,True,SEC
+Spencer Dinwiddie,Colorado,2014,2,38,R64,True,P12
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Wendell Carter Jr.,Duke,2018,1,7,E8,True,ACC
+Wes Iwundu,Kansas State,2017,2,33,R64,True,B12
+Willie Cauley-Stein,Kentucky,2015,1,6,F4,True,SEC
+Zach Collins,Gonzaga,2017,1,10,2ND,True,WCC
+Zach LaVine,UCLA,2014,1,13,S16,True,P12
+Zach Norvell Jr.,Gonzaga,2019,0,0,E8,True,WCC
+Zhaire Smith,Texas Tech,2018,1,16,E8,True,B12
+Zion Williamson,Duke,2019,1,1,E8,True,ACC
+Lonnie Walker IV,Miami,2018,1,18,Unranked,False,Unranked / Non-NCAA
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Tony Bradley,North Carolina,2017,1,28,Champions,True,ACC
+Tony Snell,New Mexico,2013,1,20,R64,True,MWC
+Trae Young,Oklahoma,2018,1,5,R64,True,B12
+Tremont Waters,Louisiana State,2019,2,51,S16,True,SEC
+Trey Burke,Michigan,2013,1,9,2ND,True,B10
+Ty Jerome,Virginia,2019,1,24,Champions,True,ACC
+Tyler Herro,Kentucky,2019,1,13,E8,True,SEC
+Tyrone Wallace,California,2016,2,60,R64,True,P12
+Tyus Jones,Duke,2015,1,24,Champions,True,ACC
+Trey Lyles,Kentucky,2015,1,12,F4,True,SEC
+Rodney Hood,Duke,2014,1,23,R64,True,ACC
+Troy Brown Jr.,Oregon,2018,1,15,Unranked,False,P12
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Matisse Thybulle,Washington,2019,1,20,R32,True,P12
+Melvin Frazier Jr.,Tulane,2018,2,35,Unranked,False,Unranked / Non-NCAA
+Mfiondu Kabengele,Florida State,2019,1,27,S16,True,ACC
+Michael Carter-Williams,Syracuse,2013,1,11,F4,True,ACC
+Michael Porter Jr.,Missouri,2018,1,14,R64,True,SEC
+Mikal Bridges,Villanova,2018,1,10,Champions,True,BE
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Miles Bridges,Michigan State,2018,1,12,R32,True,B10
+Mitchell Robinson,Western Kentucky,2018,2,36,Unranked,False,SB
+Marvin Bagley III,Duke,2018,1,2,E8,True,ACC
+Miye Oni,Yale,2019,2,58,R64,True,Ivy
+Marquese Chriss,Washington,2016,1,8,Unranked,False,P12
+Luke Kennard,Duke,2017,1,12,R32,True,ACC
+Malcolm Brogdon,Virginia,2016,2,36,E8,True,ACC
+Malik Beasley,Florida State,2016,1,19,Unranked,False,ACC
+Malik Monk,Kentucky,2017,1,11,E8,True,SEC
+Malik Newman,Kansas,2018,0,0,F4,True,B12
+Marcus Smart,Oklahoma State,2014,1,6,R64,True,B12
+Marial Shayok,Iowa State,2019,2,54,R64,True,B12
+Markelle Fultz,Washington,2017,1,1,Unranked,False,P12
+Marques Bolden,Duke,2019,0,0,E8,True,ACC
+Mo Bamba,Texas-Austin,2018,1,6,Unranked,False,Unranked / Non-NCAA
+Montrezl Harrell,Louisville,2015,2,32,E8,True,BE
+Pascal Siakam,New Mexico State,2016,1,27,Unranked,False,WAC
+Pat Connaughton,Notre Dame,2015,2,41,E8,True,ACC
+Patrick McCaw,UNLV,2016,2,38,Unranked,False,MWC
+P.J. Washington,Kentucky,2019,1,12,E8,True,SEC
+Quinndary Weatherspoon,Mississippi State,2019,2,49,R64,True,SEC
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+Richaun Holmes,Bowling Green,2015,2,37,Unranked,False,Unranked / Non-NCAA
+Monte Morris,Iowa State,2017,2,51,R32,True,B12
+Robert Williams III,Texas A&M,2018,1,27,S16,True,SEC
+RJ Barrett,Duke,2019,1,3,E8,True,ACC
+Moritz Wagner,Michigan,2018,1,25,2ND,True,B10
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+Myles Turner,Texas-Austin,2015,1,11,Unranked,False,Unranked / Non-NCAA
+Nassir Little,North Carolina,2019,1,25,S16,True,ACC
+Nerlens Noel,Kentucky,2013,1,6,Unranked,False,SEC
+Nickeil Alexander-Walker,Virginia Tech,2019,1,17,S16,True,ACC
+Omari Spellman,Villanova,2018,1,30,Champions,True,BE
+Nigel Williams-Goss,Gonzaga,2017,2,55,2ND,True,WCC
+OG Anunoby,Indiana,2017,1,23,Unranked,False,B10
+Noah Vonleh,Indiana,2014,1,9,Unranked,False,B10
+Nicolas Claxton,Georgia,2019,2,31,Unranked,False,SEC
+Norman Powell,UCLA,2015,2,46,S16,True,P12
+Gary Trent Jr.,Duke,2018,2,37,E8,True,ACC
+Gary Harris,Michigan State,2014,1,19,E8,True,B10
+Georges Niang,Iowa State,2016,2,50,S16,True,B12
+Grayson Allen,Duke,2018,1,21,E8,True,ACC
+Glenn Robinson III,Michigan,2014,2,40,E8,True,B10
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Grant Riller,College of Charleston,2020,2,56,Unranked,False,CAA
+Grant Williams,Tennessee,2019,1,22,S16,True,SEC
+Hamidou Diallo,Kentucky,2018,2,45,S16,True,SEC
+Henry Ellenson,Marquette,2016,1,18,Unranked,False,BE
+Frank Mason,Kansas,2017,2,34,E8,True,B12
+Harry Giles III,Duke,2017,1,20,R32,True,ACC
+Frank Kaminsky,Wisconsin,2015,1,9,2ND,True,B10
+Devonte' Graham,Kansas,2018,2,34,F4,True,B12
+Ignas Brazdeikis,Michigan,2019,2,47,S16,True,B10
+Dillon Brooks,Oregon,2017,2,45,F4,True,P12
+Domantas Sabonis,Gonzaga,2016,1,11,S16,True,WCC
+Donovan Mitchell,Louisville,2017,1,13,R32,True,BE
+Donte DiVincenzo,Villanova,2018,1,17,Champions,True,BE
+Doug McDermott,Creighton,2014,1,11,R32,True,BE
+Frank Jackson,Duke,2017,2,31,R32,True,ACC
+Dwayne Bacon,Florida State,2017,2,40,R32,True,ACC
+Dwight Powell,Stanford,2014,2,45,S16,True,P12
+Dylan Windler,Belmont,2019,1,26,R64,True,OVC
+Edmond Sumner,Xavier,2017,2,52,E8,True,BE
+Elfrid Payton,Louisana-Lafayette,2014,1,10,Unranked,False,Unranked / Non-NCAA
+Elijah Hughes,Syracuse,2020,2,39,Unranked,False,ACC
+Eric Paschall,Villanova,2019,2,41,R32,True,BE
+Jayson Tatum,Duke,2017,1,3,R32,True,ACC
+Jaren Jackson Jr.,Michigan State,2018,1,4,R32,True,B10
+Jarred Vanderbilt,Kentucky,2018,2,41,S16,True,SEC
+Jarrell Brantley,College of Charleston,2019,2,50,Unranked,False,CAA
+Jarrett Allen,Texas-Austin,2017,1,22,Unranked,False,Unranked / Non-NCAA
+Jarrett Culver,Texas Tech,2019,1,6,2ND,True,B12
+Jaxson Hayes,Texas-Austin,2019,1,8,Unranked,False,Unranked / Non-NCAA
+Jay Scrubb,                                   ,2020,2,55,Unranked,False,Unranked / Non-NCAA
+Jaylen Brown,California,2016,1,3,R64,True,P12
+Jaylen Nowell,Washington,2019,2,43,R32,True,P12
+Jerami Grant,Syracuse,2014,2,39,R32,True,ACC
+Jerome Robinson,Boston College,2018,1,13,Unranked,False,Unranked / Non-NCAA
+Jevon Carter,West Virginia,2018,2,32,S16,True,B12
+Joe Harris,Virginia,2014,2,33,S16,True,ACC
+Joel Embiid,Kansas,2014,1,3,R32,True,B12
+John Collins,Wake Forest,2017,1,19,R68,True,ACC
+Jordan Bell,Oregon,2017,2,38,F4,True,P12
+Immanuel Quickley,Kentucky,2020,1,25,Unranked,False,SEC
+Isaac Okoro,Auburn,2020,1,5,Unranked,False,SEC
+Isaiah Joe,Arkansas,2020,2,49,Unranked,False,SEC
+Isaiah Roby,Nebraska-Lincoln,2019,2,45,Unranked,False,Unranked / Non-NCAA
+Isaiah Stewart,Washington,2020,1,16,Unranked,False,P12
+Ja Morant,Murray State,2019,1,2,R32,True,OVC
+Jabari Parker,Duke,2014,1,2,R64,True,ACC
+James Wiseman,Memphis,2020,1,2,Unranked,False,Amer
+Jaden McDaniels,Washington,2020,1,28,Unranked,False,P12
+Jahlil Okafor,Duke,2015,1,3,Champions,True,ACC
+Jahmi'us Ramsey,Texas Tech,2020,2,43,Unranked,False,B12
+Jake Layman,Maryland,2016,2,47,S16,True,B10
+Jakob Poeltl,Utah,2016,1,9,R32,True,P12
+Jalen Brunson,Villanova,2018,2,33,Champions,True,BE
+Jalen Harris,Nevada,2020,2,59,Unranked,False,MWC
+Jalen McDaniels,San Diego State,2019,2,52,Unranked,False,MWC
+Jalen Smith,Maryland,2020,1,10,Unranked,False,B10
+Jamal Murray,Kentucky,2016,1,7,R32,True,SEC
+James Ennis III,California State-Long Beach,2013,2,50,Unranked,False,Unranked / Non-NCAA
+Devin Vassell,Florida State,2020,1,11,Unranked,False,ACC
+Bam Adebayo,Kentucky,2017,1,14,E8,True,SEC
+Devin Booker,Kentucky,2015,1,13,F4,True,SEC
+Jordan Bone,Tennessee,2019,2,57,S16,True,SEC
+Ben McLemore,Kansas,2013,1,7,S16,True,B12
+Ben Simmons,Louisiana State,2016,1,1,Unranked,False,SEC
+Bobby Portis,Arkansas,2015,1,22,R32,True,SEC
+Bol Bol,Oregon,2019,2,44,S16,True,P12
+Brandon Clarke,Gonzaga,2019,1,21,E8,True,WCC
+Bruce Brown,Miami,2018,2,42,Unranked,False,Unranked / Non-NCAA
+Bruno Fernando,Maryland,2019,2,34,R32,True,B10
+Buddy Hield,Oklahoma,2016,1,6,F4,True,B12
+CJ Elleby,Washington State,2020,2,46,Unranked,False,P12
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+Cam Reddish,Duke,2019,1,10,E8,True,ACC
+Cameron Johnson,North Carolina,2019,1,11,S16,True,ACC
+Brandon Ingram,Duke,2016,1,2,S16,True,ACC
+Cameron Payne,Murray State,2015,1,14,Unranked,False,OVC
+Zion Williamson,Duke,2019,1,1,E8,True,ACC
+Aaron Gordon,Arizona,2014,1,4,E8,True,P12
+Aaron Holiday,UCLA,2018,1,23,R68,True,P12
+Aaron Nesmith,Vanderbilt,2020,1,14,Unranked,False,SEC
+Abdel Nader,Iowa State,2016,2,58,S16,True,B12
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Alize Johnson,Missouri State,2018,2,50,Unranked,False,Unranked / Non-NCAA
+Andre Roberson,Colorado,2013,1,26,R64,True,P12
+Andrew Wiggins,Kansas,2014,1,1,R32,True,B12
+Anthony Edwards,Georgia,2020,1,1,Unranked,False,SEC
+Armoni Brooks,Houston,2019,0,0,S16,True,Amer
+Caris LeVert,Michigan,2016,1,20,R64,True,B10
+Darius Garland,Vanderbilt,2019,1,5,Unranked,False,SEC
+De'Aaron Fox,Kentucky,2017,1,5,E8,True,SEC
+De'Andre Hunter,Virginia,2019,1,4,Champions,True,ACC
+De'Anthony Melton,Southern California,2018,2,46,Unranked,False,P12
+DeAndre' Bembry,St. Joseph's (PA),2016,1,21,Unranked,False,Unranked / Non-NCAA
+Deandre Ayton,Arizona,2018,1,1,R64,True,P12
+Dejounte Murray,Washington,2016,1,29,Unranked,False,P12
+Delon Wright,Utah,2015,1,20,S16,True,P12
+Dennis Smith Jr.,North Carolina State,2017,1,9,Unranked,False,ACC
+Denzel Valentine,Michigan State,2016,1,14,R64,True,B10
+Derrick White,Colorado,2017,1,29,Unranked,False,P12
+Desmond Bane,TCU,2020,1,30,Unranked,False,B12
+Daniel Oturu,Minnesota,2020,2,33,Unranked,False,B10
+Daniel Gafford,Arkansas,2019,2,38,Unranked,False,SEC
+Carsen Edwards,Purdue,2019,2,33,E8,True,B10
+Cassius Stanley,Duke,2020,2,54,Unranked,False,ACC
+Cassius Winston,Michigan State,2020,2,53,Unranked,False,B10
+Chandler Hutchison,Boise State,2018,1,22,Unranked,False,MWC
+Chasson Randle,Stanford,2015,0,0,Unranked,False,P12
+Chimezie Metu,Southern California,2018,2,49,Unranked,False,P12
+Chuma Okeke,Auburn,2019,1,16,F4,True,SEC
+Coby White,North Carolina,2019,1,7,S16,True,ACC
+Cody Martin,Nevada-Reno,2019,2,36,Unranked,False,Unranked / Non-NCAA
+Damyean Dotson,Houston,2017,2,44,Unranked,False,Amer
+Damian Jones,Vanderbilt,2016,1,30,R68,True,SEC
+Dakota Mathias,Purdue,2018,0,0,S16,True,B10
+Devin Cannady,Princeton,2019,0,0,Unranked,False,Ivy
+D.J. Wilson,Michigan,2017,1,17,S16,True,B10
+D'Angelo Russell,Ohio State,2015,1,2,R32,True,B10
+Collin Sexton,Alabama,2018,1,8,R32,True,SEC
+Cole Anthony,North Carolina,2020,1,15,Unranked,False,ACC
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Jordan Clarkson,Missouri,2014,2,46,Unranked,False,SEC
+Marcus Smart,Oklahoma State,2014,1,6,R64,True,B12
+Jordan Nwora,Louisville,2020,2,45,Unranked,False,BE
+Trey Lyles,Kentucky,2015,1,12,F4,True,SEC
+Trey Burke,Michigan,2013,1,9,2ND,True,B10
+Tremont Waters,Louisiana State,2019,2,51,S16,True,SEC
+Tre Jones,Duke,2020,2,41,Unranked,False,ACC
+Trae Young,Oklahoma,2018,1,5,R64,True,B12
+Tony Snell,New Mexico,2013,1,20,R64,True,MWC
+Tony Bradley,North Carolina,2017,1,28,Champions,True,ACC
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Thomas Bryant,Indiana,2017,2,42,Unranked,False,B10
+Terry Rozier,Louisville,2015,1,16,E8,True,BE
+Terance Mann,Florida State,2019,2,48,S16,True,ACC
+Taurean Prince,Baylor,2016,1,12,R64,True,B12
+Talen Horton-Tucker,Iowa State,2019,2,46,R64,True,B12
+Troy Brown Jr.,Oregon,2018,1,15,Unranked,False,P12
+Ty Jerome,Virginia,2019,1,24,Champions,True,ACC
+Tyler Bey,Colorado,2020,2,36,Unranked,False,P12
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+P.J. Washington,Kentucky,2019,1,12,E8,True,SEC
+Zeke Nnaji,Arizona,2020,1,22,Unranked,False,P12
+Zach LaVine,UCLA,2014,1,13,S16,True,P12
+Xavier Tillman,Michigan State,2020,2,35,Unranked,False,B10
+Willie Cauley-Stein,Kentucky,2015,1,6,F4,True,SEC
+Wes Iwundu,Kansas State,2017,2,33,R64,True,B12
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Vernon Carey Jr.,Duke,2020,2,32,Unranked,False,ACC
+Udoka Azubuike,Kansas,2020,1,27,Unranked,False,B12
+Tyus Jones,Duke,2015,1,24,Champions,True,ACC
+Tyrese Maxey,Kentucky,2020,1,21,Unranked,False,SEC
+Tyrese Haliburton,Iowa State,2020,1,12,Unranked,False,B12
+Tyrell Terry,Stanford,2020,2,31,Unranked,False,P12
+Tyler Herro,Kentucky,2019,1,13,E8,True,SEC
+T.J. Warren,North Carolina State,2014,1,14,R64,True,ACC
+T.J. McConnell,Arizona,2015,0,0,E8,True,P12
+Robert Williams III,Texas A&M,2018,1,27,S16,True,SEC
+Robert Franks,Washington State,2019,0,0,Unranked,False,P12
+Richaun Holmes,Bowling Green,2015,2,37,Unranked,False,Unranked / Non-NCAA
+Reggie Perry,Mississippi State,2020,2,57,Unranked,False,SEC
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+Ray Spalding,Louisville,2018,2,56,Unranked,False,BE
+RJ Barrett,Duke,2019,1,3,E8,True,ACC
+Robert Woodard II,Mississippi State,2020,2,40,Unranked,False,SEC
+Quinndary Weatherspoon,Mississippi State,2019,2,49,R64,True,SEC
+Precious Achiuwa,Memphis,2020,1,20,Unranked,False,Amer
+Payton Pritchard,Oregon,2020,1,26,Unranked,False,P12
+Paul Reed,DePaul,2020,2,58,Unranked,False,Unranked / Non-NCAA
+Patrick Williams,Florida State,2020,1,4,Unranked,False,ACC
+Patrick McCaw,UNLV,2016,2,38,Unranked,False,MWC
+Pat Connaughton,Notre Dame,2015,2,41,E8,True,ACC
+Pascal Siakam,New Mexico State,2016,1,27,Unranked,False,WAC
+Rodney Hood,Duke,2014,1,23,R64,True,ACC
+T.J. Leaf,UCLA,2017,1,18,S16,True,P12
+Svi Mykhailiuk,Kansas,2018,2,47,F4,True,B12
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+Sterling Brown,Southern Methodist,2017,2,46,Unranked,False,Unranked / Non-NCAA
+Stanley Johnson,Arizona,2015,1,8,E8,True,P12
+Spencer Dinwiddie,Colorado,2014,2,38,R64,True,P12
+Solomon Hill,Arizona,2013,1,23,S16,True,P12
+Skylar Mays,Louisiana State,2020,2,50,Unranked,False,SEC
+Sindarius Thornwell,South Carolina,2017,2,48,F4,True,SEC
+Shake Milton,Southern Methodist,2018,2,54,Unranked,False,Unranked / Non-NCAA
+Shai Gilgeous-Alexander,Kentucky,2018,1,11,S16,True,SEC
+Sam Merrill,Utah State,2020,2,60,Unranked,False,MWC
+Saddiq Bey,Villanova,2020,1,19,Unranked,False,BE
+Saben Lee,Vanderbilt,2020,2,38,Unranked,False,SEC
+Rui Hachimura,Gonzaga,2019,1,9,E8,True,WCC
+Rondae Hollis-Jefferson,Arizona,2015,1,23,E8,True,P12
+Romeo Langford,Indiana,2019,1,14,Unranked,False,B10
+Semi Ojeleye,Southern Methodist,2017,2,37,Unranked,False,Unranked / Non-NCAA
+Onyeka Okongwu,Southern California,2020,1,6,Unranked,False,P12
+Wendell Carter Jr.,Duke,2018,1,7,E8,True,ACC
+OG Anunoby,Indiana,2017,1,23,Unranked,False,B10
+Kevin Huerter,Maryland,2018,1,19,Unranked,False,B10
+Kevin Knox II,Kentucky,2018,1,9,S16,True,SEC
+Kevin Porter Jr.,Southern California,2019,1,30,Unranked,False,P12
+Kevon Looney,UCLA,2015,1,30,S16,True,P12
+Khyri Thomas,Creighton,2018,2,38,R64,True,BE
+Kira Lewis Jr.,Alabama,2020,1,13,Unranked,False,SEC
+Kostas Antetokounmpo,Dayton,2018,2,60,Unranked,False,A10
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Obi Toppin,Dayton,2020,1,8,Unranked,False,A10
+Kyle Anderson,UCLA,2014,1,30,S16,True,P12
+Kyle Guy,Virginia,2019,2,55,Champions,True,ACC
+Kyle Kuzma,Utah,2017,1,27,Unranked,False,P12
+Landry Shamet,Wichita State,2018,1,26,R64,True,MVC
+Larry Nance Jr.,Wyoming,2015,1,27,R64,True,MWC
+Lauri Markkanen,Arizona,2017,1,7,S16,True,P12
+Lonnie Walker IV,Miami,2018,1,18,Unranked,False,Unranked / Non-NCAA
+Lonzo Ball,UCLA,2017,1,2,S16,True,P12
+Jordan Poole,Michigan,2019,1,28,S16,True,B10
+Josh Green,Arizona,2020,1,18,Unranked,False,P12
+Josh Hart,Villanova,2017,1,30,R32,True,BE
+Josh Jackson,Kansas,2017,1,4,E8,True,B12
+Josh Okogie,Georgia Tech,2018,1,20,Unranked,False,ACC
+Josh Richardson,Tennessee,2015,2,40,Unranked,False,SEC
+Julius Randle,Kentucky,2014,1,7,2ND,True,SEC
+Justin Jackson,North Carolina,2017,1,15,Champions,True,ACC
+Justin James,Wyoming,2019,2,40,Unranked,False,MWC
+Justin Patton,Creighton,2017,1,16,R64,True,BE
+Justise Winslow,Duke,2015,1,10,Champions,True,ACC
+KZ Okpala,Stanford,2019,2,32,Unranked,False,P12
+Karl-Anthony Towns,Kentucky,2015,1,1,F4,True,SEC
+Keita Bates-Diop,Ohio State,2018,2,48,R32,True,B10
+Keldon Johnson,Kentucky,2019,1,29,E8,True,SEC
+Keljin Blevins,Montana State,2019,0,0,Unranked,False,BSky
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Kelly Oubre Jr.,Kansas,2015,1,15,R32,True,B12
+Justin Robinson,Virginia Tech ,2019,0,0,S16,True,ACC
+Kris Dunn,Providence,2016,1,5,R32,True,BE
+Miles Bridges,Michigan State,2018,1,12,R32,True,B10
+Mitchell Robinson,Western Kentucky,2018,2,36,Unranked,False,SB
+Miye Oni,Yale,2019,2,58,R64,True,Ivy
+Mo Bamba,Texas-Austin,2018,1,6,Unranked,False,Unranked / Non-NCAA
+Monte Morris,Iowa State,2017,2,51,R32,True,B12
+Montrezl Harrell,Louisville,2015,2,32,E8,True,BE
+Moritz Wagner,Michigan,2018,1,25,2ND,True,B10
+Myles Turner,Texas-Austin,2015,1,11,Unranked,False,Unranked / Non-NCAA
+Nassir Little,North Carolina,2019,1,25,S16,True,ACC
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Nerlens Noel,Kentucky,2013,1,6,Unranked,False,SEC
+Nick Richards,Kentucky,2020,2,42,Unranked,False,SEC
+Nickeil Alexander-Walker,Virginia Tech,2019,1,17,S16,True,ACC
+Nico Mannion,Arizona,2020,2,48,Unranked,False,P12
+Nicolas Claxton,Georgia,2019,2,31,Unranked,False,SEC
+Noah Vonleh,Indiana,2014,1,9,Unranked,False,B10
+Norman Powell,UCLA,2015,2,46,S16,True,P12
+Mikal Bridges,Villanova,2018,1,10,Champions,True,BE
+Luke Kennard,Duke,2017,1,12,R32,True,ACC
+Malachi Flynn,San Diego State,2020,1,29,Unranked,False,MWC
+Malcolm Brogdon,Virginia,2016,2,36,E8,True,ACC
+Malik Monk,Kentucky,2017,1,11,E8,True,SEC
+Markelle Fultz,Washington,2017,1,1,Unranked,False,P12
+Malik Beasley,Florida State,2016,1,19,Unranked,False,ACC
+Marquese Chriss,Washington,2016,1,8,Unranked,False,P12
+Michael Porter Jr.,Missouri,2018,1,14,R64,True,SEC
+Marques Bolden,Duke,2019,0,0,E8,True,ACC
+Michael Carter-Williams,Syracuse,2013,1,11,F4,True,ACC
+Mfiondu Kabengele,Florida State,2019,1,27,S16,True,ACC
+Matisse Thybulle,Washington,2019,1,20,R32,True,P12
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Marvin Bagley III,Duke,2018,1,2,E8,True,ACC
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Vernon Carey Jr.,Duke,2020,2,32,Unranked,False,ACC
+Tyus Jones,Duke,2015,1,24,Champions,True,ACC
+Tyrone Wallace,California,2016,2,60,R64,True,P12
+Tyrese Maxey,Kentucky,2020,1,21,Unranked,False,SEC
+Tyrese Haliburton,Iowa State,2020,1,12,Unranked,False,B12
+Tyrell Terry,Stanford,2020,2,31,Unranked,False,P12
+Tyler Herro,Kentucky,2019,1,13,E8,True,SEC
+Wayne Selden,Kansas,2016,0,0,E8,True,B12
+Udoka Azubuike,Kansas,2020,1,27,Unranked,False,B12
+Wendell Carter Jr.,Duke,2018,1,7,E8,True,ACC
+Ziaire Williams,Stanford,2021,1,10,Unranked,False,P12
+Wes Iwundu,Kansas State,2017,2,33,R64,True,B12
+Zeke Nnaji,Arizona,2020,1,22,Unranked,False,P12
+Zach LaVine,UCLA,2014,1,13,S16,True,P12
+Zach Collins,Gonzaga,2017,1,10,2ND,True,WCC
+Xavier Tillman Sr.,Michigan State,2020,2,35,Unranked,False,B10
+Willie Cauley-Stein,Kentucky,2015,1,6,F4,True,SEC
+Troy Brown Jr.,Oregon,2018,1,15,Unranked,False,P12
+Evan Mobley,Southern California,2021,1,3,E8,True,P12
+Frank Jackson,Duke,2017,2,31,R32,True,ACC
+Frank Kaminsky,Wisconsin,2015,1,9,2ND,True,B10
+Franz Wagner,Michigan,2021,1,8,E8,True,B10
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Ty Jerome,Virginia,2019,1,24,Champions,True,ACC
+George King,Colorado,2018,2,59,Unranked,False,P12
+Gary Trent Jr.,Duke,2018,2,37,E8,True,ACC
+Gary Harris,Michigan State,2014,1,19,E8,True,B10
+Georges Niang,Iowa State,2016,2,50,S16,True,B12
+Eric Paschall,Villanova,2019,2,41,R32,True,BE
+Dillon Brooks,Oregon,2017,2,45,F4,True,P12
+Devonte' Graham,Kansas,2018,2,34,F4,True,B12
+Domantas Sabonis,Gonzaga,2016,1,11,S16,True,WCC
+Devin Vassell,Florida State,2020,1,11,Unranked,False,ACC
+Devin Booker,Kentucky,2015,1,13,F4,True,SEC
+Desmond Bane,TCU,2020,1,30,Unranked,False,B12
+Derrick White,Colorado,2017,1,29,Unranked,False,P12
+Devin Cannady,Princeton,2019,0,0,Unranked,False,Ivy
+Grant Williams,Tennessee,2019,1,22,S16,True,SEC
+Donovan Mitchell,Louisville,2017,1,13,R32,True,BE
+Elijah Hughes,Syracuse,2020,2,39,Unranked,False,ACC
+Elfrid Payton,Louisana-Lafayette,2014,1,10,Unranked,False,Unranked / Non-NCAA
+Donte DiVincenzo,Villanova,2018,1,17,Champions,True,BE
+Dylan Windler,Belmont,2019,1,26,R64,True,OVC
+Doug McDermott,Creighton,2014,1,11,R32,True,BE
+Dwight Powell,Stanford,2014,2,45,S16,True,P12
+Grayson Allen,Duke,2018,1,21,E8,True,ACC
+Jalen Johnson,Duke,2021,1,20,Unranked,False,ACC
+Jalen McDaniels,San Diego State,2019,2,52,Unranked,False,MWC
+Jalen Smith,Maryland,2020,1,10,Unranked,False,B10
+Jalen Suggs,Gonzaga,2021,1,5,2ND,True,WCC
+James Bouknight,Connecticut,2021,1,11,R64,True,Amer
+James Ennis III,Cal State-Long Beach,2013,2,50,Unranked,False,Unranked / Non-NCAA
+Jared Butler,Baylor,2021,2,40,Champions,True,B12
+Jaren Jackson Jr.,Michigan State,2018,1,4,R32,True,B10
+Jarred Vanderbilt,Kentucky,2018,2,41,S16,True,SEC
+Jarrett Allen,Texas-Austin,2017,1,22,Unranked,False,Unranked / Non-NCAA
+Jarrett Culver,Texas Tech,2019,1,6,2ND,True,B12
+Jayson Tatum,Duke,2017,1,3,R32,True,ACC
+Jaylen Nowell,Washington,2019,2,43,R32,True,P12
+Jalen Brunson,Villanova,2018,2,33,Champions,True,BE
+Jaxson Hayes,Texas-Austin,2019,1,8,Unranked,False,Unranked / Non-NCAA
+Jaylen Brown,California,2016,1,3,R64,True,P12
+Jakob Poeltl,Utah,2016,1,9,R32,True,P12
+Jake Layman,Maryland,2016,2,47,S16,True,B10
+Isaiah Livers,Michigan,2021,2,42,E8,True,B10
+Isaiah Joe,Arkansas,2020,2,49,Unranked,False,SEC
+Isaiah Jackson,Kentucky,2021,1,22,Unranked,False,SEC
+Isaac Okoro,Auburn,2020,1,5,Unranked,False,SEC
+Isaiah Roby,Nebraska-Lincoln,2019,2,45,Unranked,False,Unranked / Non-NCAA
+Immanuel Quickley,Kentucky,2020,1,25,Unranked,False,SEC
+Herbert Jones,Alabama,2021,2,35,S16,True,SEC
+Haywood Highsmith,Wheeling Jesuit,2018,0,0,Unranked,False,Unranked / Non-NCAA
+Hassani Gravett,South Carolina,2019,0,0,Unranked,False,SEC
+Hamidou Diallo,Kentucky,2018,2,45,S16,True,SEC
+Ignas Brazdeikis,Michigan,2019,2,47,S16,True,B10
+Greg Brown III,Texas-Austin,2021,2,43,Unranked,False,Unranked / Non-NCAA
+Isaiah Stewart,Washington,2020,1,16,Unranked,False,P12
+Jahmi'us Ramsey,Texas Tech,2020,2,43,Unranked,False,B12
+Jaden Springer,Tennessee,2021,1,28,R64,True,SEC
+Jaden McDaniels,Washington,2020,1,28,Unranked,False,P12
+Jabari Parker,Duke,2014,1,2,R64,True,ACC
+Ja Morant,Murray State,2019,1,2,R32,True,OVC
+JT Thor,Auburn,2021,2,37,Unranked,False,SEC
+Denzel Valentine,Michigan State,2016,1,14,R64,True,B10
+Dennis Smith Jr.,North Carolina State,2017,1,9,Unranked,False,ACC
+Charles Bassey,Western Kentucky,2021,2,53,Unranked,False,SB
+Chandler Hutchison,Boise State,2018,1,22,Unranked,False,MWC
+Cat Barber,North Carolina State,2016,0,0,Unranked,False,ACC
+Cassius Winston,Michigan State,2020,2,53,Unranked,False,B10
+Cassius Stanley,Duke,2020,2,54,Unranked,False,ACC
+Carsen Edwards,Purdue,2019,2,33,E8,True,B10
+Caris LeVert,Michigan,2016,1,20,R64,True,B10
+Cameron Payne,Murray State,2015,1,14,Unranked,False,OVC
+Cameron Johnson,North Carolina,2019,1,11,S16,True,ACC
+Cam Thomas,Louisiana State,2021,1,27,R32,True,SEC
+Cam Reddish,Duke,2019,1,10,E8,True,ACC
+Bruce Brown,Miami,2018,2,42,Unranked,False,Unranked / Non-NCAA
+Bruno Fernando,Maryland,2019,2,34,R32,True,B10
+Buddy Hield,Oklahoma,2016,1,6,F4,True,B12
+CJ Elleby,Washington State,2020,2,46,Unranked,False,P12
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+Cade Cunningham,Oklahoma State,2021,1,1,R32,True,B12
+Cheick Diallo,Kansas,2016,2,33,E8,True,B12
+Chimezie Metu,Southern California,2018,2,49,Unranked,False,P12
+Dakota Mathias,Purdue,2018,0,0,S16,True,B10
+Dalano Banton,Nebraska,2021,2,46,Unranked,False,B10
+Damian Jones,Vanderbilt,2016,1,30,R68,True,SEC
+D.J. Wilson,Michigan,2017,1,17,S16,True,B10
+Daniel Gafford,Arkansas,2019,2,38,Unranked,False,SEC
+Daniel Oturu,Minnesota,2020,2,33,Unranked,False,B10
+Damyean Dotson,Houston,2017,2,44,Unranked,False,Amer
+Brandon Ingram,Duke,2016,1,2,S16,True,ACC
+Chris Duarte,Oregon,2021,1,13,S16,True,P12
+Chuma Okeke,Auburn,2019,1,16,F4,True,SEC
+D'Angelo Russell,Ohio State,2015,1,2,R32,True,B10
+Cody Martin,Nevada-Reno,2019,2,36,Unranked,False,Unranked / Non-NCAA
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Cole Anthony,North Carolina,2020,1,15,Unranked,False,ACC
+Collin Sexton,Alabama,2018,1,8,R32,True,SEC
+Corey Kispert,Gonzaga,2021,1,15,2ND,True,WCC
+Coby White,North Carolina,2019,1,7,S16,True,ACC
+Brandon Clarke,Gonzaga,2019,1,21,E8,True,WCC
+Brandon Boston,Kentucky,2021,2,51,Unranked,False,SEC
+David Johnson,Louisville,2021,2,47,Unranked,False,BE
+Aaron Gordon,Arizona,2014,1,4,E8,True,P12
+Davion Mitchell,Baylor,2021,1,9,Champions,True,B12
+Aaron Holiday,UCLA,2018,1,23,R68,True,P12
+Aaron Wiggins,Maryland,2021,2,55,R32,True,B10
+Abdel Nader,Iowa State,2016,2,58,S16,True,B12
+Admiral Schofield,Tennessee,2019,2,42,S16,True,SEC
+Ahmad Caver,Old Dominion,2019,0,0,R64,True,CUSA
+Aaron Nesmith,Vanderbilt,2020,1,14,Unranked,False,SEC
+Day'Ron Sharpe,North Carolina,2021,1,29,R64,True,ACC
+Delon Wright,Utah,2015,1,20,S16,True,P12
+Dejounte Murray,Washington,2016,1,29,Unranked,False,P12
+Deandre Ayton,Arizona,2018,1,1,R64,True,P12
+Davon Reed,Miami,2017,2,32,Unranked,False,Unranked / Non-NCAA
+DeAndre' Bembry,St. Joseph's (PA),2016,1,21,Unranked,False,Unranked / Non-NCAA
+De'Anthony Melton,Southern California,2018,2,46,Unranked,False,P12
+De'Andre Hunter,Virginia,2019,1,4,Champions,True,ACC
+De'Aaron Fox,Kentucky,2017,1,5,E8,True,SEC
+Jemerrio Jones,New Mexico State,2018,0,0,R64,True,WAC
+Ayo Dosunmu,Illinois,2021,2,38,R32,True,B10
+Bam Adebayo,Kentucky,2017,1,14,E8,True,SEC
+Ben McLemore,Kansas,2013,1,7,S16,True,B12
+Bol Bol,Oregon,2019,2,44,S16,True,P12
+Bones Hyland,Virginia Commonwealth,2021,1,26,Unranked,False,Unranked / Non-NCAA
+Bobby Portis,Arkansas,2015,1,22,R32,True,SEC
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Alize Johnson,Missouri State,2018,2,50,Unranked,False,Unranked / Non-NCAA
+Anthony Edwards,Georgia,2020,1,1,Unranked,False,SEC
+Armoni Brooks,Houston,2019,0,0,S16,True,Amer
+Andrew Wiggins,Kansas,2014,1,1,R32,True,B12
+Jerami Grant,Syracuse,2014,2,39,R32,True,ACC
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+Onyeka Okongwu,Southern California,2020,1,6,Unranked,False,P12
+Obi Toppin,Dayton,2020,1,8,Unranked,False,A10
+OG Anunoby,Indiana,2017,1,23,Unranked,False,B10
+Norman Powell,UCLA,2015,2,46,S16,True,P12
+Nik Stauskas,Michigan,2014,1,8,E8,True,B10
+Nickeil Alexander-Walker,Virginia Tech,2019,1,17,S16,True,ACC
+Nick Richards,Kentucky,2020,2,42,Unranked,False,SEC
+Nic Claxton,Georgia,2019,2,31,Unranked,False,SEC
+Moses Moody,Arkansas,2021,1,14,E8,True,SEC
+Myles Turner,Texas-Austin,2015,1,11,Unranked,False,Unranked / Non-NCAA
+Neemias Queta,Utah State,2021,2,39,R64,True,MWC
+Nerlens Noel,Kentucky,2013,1,6,Unranked,False,SEC
+Nassir Little,North Carolina,2019,1,25,S16,True,ACC
+P.J. Washington,Kentucky,2019,1,12,E8,True,SEC
+Pascal Siakam,New Mexico State,2016,1,27,Unranked,False,WAC
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+Reggie Perry,Mississippi State,2020,2,57,Unranked,False,SEC
+Richaun Holmes,Bowling Green,2015,2,37,Unranked,False,Unranked / Non-NCAA
+Robert Williams III,Texas A&M,2018,1,27,S16,True,SEC
+Robert Woodard II,Mississippi State,2020,2,40,Unranked,False,SEC
+Rodney Hood,Duke,2014,1,23,R64,True,ACC
+Romeo Langford,Indiana,2019,1,14,Unranked,False,B10
+Moritz Wagner,Michigan,2018,1,25,2ND,True,B10
+RJ Barrett,Duke,2019,1,3,E8,True,ACC
+Pat Connaughton,Notre Dame,2015,2,41,E8,True,ACC
+Patrick Williams,Florida State,2020,1,4,Unranked,False,ACC
+Paul Reed,DePaul,2020,2,58,Unranked,False,Unranked / Non-NCAA
+Payton Pritchard,Oregon,2020,1,26,Unranked,False,P12
+Precious Achiuwa,Memphis,2020,1,20,Unranked,False,Amer
+Quentin Grimes,Houston,2021,1,25,F4,True,Amer
+Quinndary Weatherspoon,Mississippi State,2019,2,49,R64,True,SEC
+Montrezl Harrell,Louisville,2015,2,32,E8,True,BE
+Mo Bamba,Texas-Austin,2018,1,6,Unranked,False,Unranked / Non-NCAA
+Luke Kennard,Duke,2017,1,12,R32,True,ACC
+Luka Garza,Iowa,2021,2,52,R32,True,B10
+Lonzo Ball,UCLA,2017,1,2,S16,True,P12
+Lonnie Walker IV,Miami,2018,1,18,Unranked,False,Unranked / Non-NCAA
+Lindell Wigginton,Iowa State,2019,0,0,R64,True,B12
+Lauri Markkanen,Arizona,2017,1,7,S16,True,P12
+Kris Dunn,Providence,2016,1,5,R32,True,BE
+Jeremiah Robinson-Earl,Villanova,2021,2,32,S16,True,BE
+Kyle Anderson,UCLA,2014,1,30,S16,True,P12
+Kyle Guy,Virginia,2019,2,55,Champions,True,ACC
+Kyle Kuzma,Utah,2017,1,27,Unranked,False,P12
+Malachi Flynn,San Diego State,2020,1,29,Unranked,False,MWC
+Landry Shamet,Wichita State,2018,1,26,R64,True,MVC
+Larry Nance Jr.,Wyoming,2015,1,27,R64,True,MWC
+Malcolm Brogdon,Virginia,2016,2,36,E8,True,ACC
+Malik Beasley,Florida State,2016,1,19,Unranked,False,ACC
+Melvin Frazier Jr.,Tulane,2018,2,35,Unranked,False,Unranked / Non-NCAA
+Michael Porter Jr.,Missouri,2018,1,14,R64,True,SEC
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Miles Bridges,Michigan State,2018,1,12,R32,True,B10
+Miles McBride,West Virginia,2021,2,36,R32,True,B12
+Mitchell Robinson,Western Kentucky,2018,2,36,Unranked,False,SB
+Miye Oni,Yale,2019,2,58,R64,True,Ivy
+Mikal Bridges,Villanova,2018,1,10,Champions,True,BE
+Monte Morris,Iowa State,2017,2,51,R32,True,B12
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Malik Monk,Kentucky,2017,1,11,E8,True,SEC
+Malik Newman,Kansas,2018,0,0,F4,True,B12
+Matisse Thybulle,Washington,2019,1,20,R32,True,P12
+Marcus Smart,Oklahoma State,2014,1,6,R64,True,B12
+Marquese Chriss,Washington,2016,1,8,Unranked,False,P12
+Marvin Bagley III,Duke,2018,1,2,E8,True,ACC
+Markelle Fultz,Washington,2017,1,1,Unranked,False,P12
+Rui Hachimura,Gonzaga,2019,1,9,E8,True,WCC
+Justin Jackson,UNC,2017,1,15,Champions,True,ACC
+Justin Robinson,Virginia Tech,2019,0,0,S16,True,ACC
+Justise Winslow,Duke,2015,1,10,Champions,True,ACC
+KZ Okpala,Stanford,2019,2,32,Unranked,False,P12
+Kai Jones,Texas-Austin,2021,1,19,Unranked,False,Unranked / Non-NCAA
+Karl-Anthony Towns,Kentucky,2015,1,1,F4,True,SEC
+Keita Bates-Diop,Ohio State,2018,2,48,R32,True,B10
+Keldon Johnson,Kentucky,2019,1,29,E8,True,SEC
+Keljin Blevins,Montana State,2019,0,0,Unranked,False,BSky
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Kelly Oubre Jr.,Kansas,2015,1,15,R32,True,B12
+Kevon Looney,UCLA,2015,1,30,S16,True,P12
+Kevin Porter Jr.,Southern California,2019,1,30,Unranked,False,P12
+Kevin Knox II,Kentucky,2018,1,9,S16,True,SEC
+Kevin Huerter,Maryland,2018,1,19,Unranked,False,B10
+Justin Anderson,Virginia,2015,1,21,R32,True,ACC
+Keon Johnson,Tennessee,2021,1,21,R64,True,SEC
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Kessler Edwards,Pepperdine,2021,2,44,Unranked,False,Unranked / Non-NCAA
+Julius Randle,Kentucky,2014,1,7,2ND,True,SEC
+John Collins,Wake Forest,2017,1,19,R68,True,ACC
+Joel Embiid,Kansas,2014,1,3,R32,True,B12
+Joe Wieskamp,Iowa,2021,2,41,R32,True,B10
+Joe Harris,Virginia,2014,2,33,S16,True,ACC
+Jevon Carter,West Virginia,2018,2,32,S16,True,B12
+Jericho Sims,Texas-Austin,2021,2,58,Unranked,False,Unranked / Non-NCAA
+Jordan Clarkson,Missouri,2014,2,46,Unranked,False,SEC
+Josh Richardson,Tennessee,2015,2,40,Unranked,False,SEC
+Josh Okogie,Georgia Tech,2018,1,20,Unranked,False,ACC
+Josh Jackson,Kansas,2017,1,4,E8,True,B12
+Josh Hart,Villanova,2017,1,30,R32,True,BE
+Josh Green,Arizona,2020,1,18,Unranked,False,P12
+Jordan Bell,Oregon,2017,2,38,F4,True,P12
+Jordan Poole,Michigan,2019,1,28,S16,True,B10
+Jordan Nwora,Louisville,2020,2,45,Unranked,False,BE
+Darius Garland,Vanderbilt,2019,1,5,Unranked,False,SEC
+Josh Christopher,Arizona State,2021,1,24,Unranked,False,P12
+Joshua Primo,Alabama,2021,1,12,S16,True,SEC
+Sharife Cooper,Auburn,2021,2,48,Unranked,False,SEC
+Skylar Mays,Louisiana State,2020,2,50,Unranked,False,SEC
+Solomon Hill,Arizona,2013,1,23,S16,True,P12
+Spencer Dinwiddie,Colorado,2014,2,38,R64,True,P12
+Shake Milton,Southern Methodist,2018,2,54,Unranked,False,Unranked / Non-NCAA
+Stanley Johnson,Arizona,2015,1,8,E8,True,P12
+Sterling Brown,Southern Methodist,2017,2,46,Unranked,False,Unranked / Non-NCAA
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+Svi Mykhailiuk,Kansas,2018,2,47,F4,True,B12
+T.J. McConnell,Arizona,2015,0,0,E8,True,P12
+Talen Horton-Tucker,Iowa State,2019,2,46,R64,True,B12
+Semi Ojeleye,Southern Methodist,2017,2,37,Unranked,False,Unranked / Non-NCAA
+Saben Lee,Vanderbilt,2020,2,38,Unranked,False,SEC
+Saddiq Bey,Villanova,2020,1,19,Unranked,False,BE
+Sam Dekker,Wisconsin,2015,1,18,2ND,True,B10
+Sandro Mamukelashvili,Seton Hall,2021,2,54,Unranked,False,BE
+Santi Aldama,Loyola-Maryland,2021,1,30,Unranked,False,Unranked / Non-NCAA
+Scottie Barnes,Florida State,2021,1,4,S16,True,ACC
+Scottie Lewis,Florida,2021,2,56,R32,True,SEC
+Sam Merrill,Utah State,2020,2,60,Unranked,False,MWC
+Taurean Prince,Baylor,2016,1,12,R64,True,B12
+Shai Gilgeous-Alexander,Kentucky,2018,1,11,S16,True,SEC
+Tre Jones,Duke,2020,2,41,Unranked,False,ACC
+Tre Mann,Florida,2021,1,18,R32,True,SEC
+Tremont Waters,LSU,2019,2,51,S16,True,SEC
+Kira Lewis Jr.,Alabama,2020,1,13,Unranked,False,SEC
+Trey Burke,Michigan,2013,1,9,2ND,True,B10
+Trey Lyles,Kentucky,2015,1,12,F4,True,SEC
+Trey Murphy III,Virginia,2021,1,17,R64,True,ACC
+Terance Mann,Florida State,2019,2,48,S16,True,ACC
+Trae Young,Oklahoma,2018,1,5,R64,True,B12
+Thomas Bryant,Indiana,2017,2,42,Unranked,False,B10
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Tony Bradley,North Carolina,2017,1,28,Champions,True,ACC
+Tony Snell,New Mexico,2013,1,20,R64,True,MWC
+Terry Rozier,Louisville,2015,1,16,E8,True,BE
+Quentin Grimes,Houston,2021,1,25,F4,True,Amer
+Pat Connaughton,Notre Dame,2015,2,41,E8,True,ACC
+RJ Barrett,Duke,2019,1,3,E8,True,ACC
+Precious Achiuwa,Memphis,2020,1,20,Unranked,False,Amer
+RaiQuan Gray,Florida State,2021,2,59,S16,True,ACC
+Peyton Watson,UCLA,2022,1,30,S16,True,P12
+Paul Reed,DePaul,2020,2,58,Unranked,False,Unranked / Non-NCAA
+Pascal Siakam,New Mexico State,2016,1,27,Unranked,False,WAC
+Patrick Williams,Florida State,2020,1,4,Unranked,False,ACC
+Patrick Baldwin,Wisconsin-Milwaukee,2022,1,28,Unranked,False,Unranked / Non-NCAA
+Payton Pritchard,Oregon,2020,1,26,Unranked,False,P12
+Reggie Bullock,North Carolina,2013,1,25,R32,True,ACC
+Richaun Holmes,Bowling Green,2015,2,37,Unranked,False,Unranked / Non-NCAA
+Saddiq Bey,Villanova,2020,1,19,Unranked,False,BE
+Paolo Banchero,Duke,2022,1,1,F4,True,ACC
+Saben Lee,Vanderbilt,2020,2,38,Unranked,False,SEC
+Ryan Rollins,Toledo,2022,2,44,Unranked,False,Unranked / Non-NCAA
+Rui Hachimura,Gonzaga,2019,1,9,E8,True,WCC
+Romeo Langford,Indiana,2019,1,14,Unranked,False,B10
+Robert Williams III,Texas A&M,2018,1,27,S16,True,SEC
+Montrezl Harrell,Louisville,2015,2,32,E8,True,BE
+Nassir Little,North Carolina,2019,1,25,S16,True,ACC
+Myles Turner,Texas,2015,1,11,R64,True,B12
+Moussa Diabate,Michigan,2022,2,43,S16,True,B10
+Moses Moody,Arkansas,2021,1,14,E8,True,SEC
+Moritz Wagner,Michigan,2018,1,25,2ND,True,B10
+Monte Morris,Iowa State,2017,2,51,R32,True,B12
+Mo Bamba,Texas,2018,1,6,R64,True,B12
+Mitchell Robinson,Western Kentucky,2018,2,36,Unranked,False,SB
+Miles McBride,West Virginia,2021,2,36,R32,True,B12
+Mike Muscala,Bucknell,2013,2,44,R64,True,Pat
+Sam Merrill,Utah State,2020,2,60,Unranked,False,MWC
+Mikal Bridges,Villanova,2018,1,10,Champions,True,BE
+Neemias Queta,Utah State,2021,2,39,R64,True,MWC
+P.J. Washington,Kentucky,2019,1,12,E8,True,SEC
+Nerlens Noel,Kentucky,2013,1,6,Unranked,False,SEC
+Nick Richards,Kentucky,2020,2,42,Unranked,False,SEC
+Otto Porter Jr.,Georgetown,2013,1,3,R64,True,BE
+Onyeka Okongwu,Southern California,2020,1,6,Unranked,False,P12
+Ochai Agbaji,Kansas,2022,1,14,Champions,True,B12
+Obi Toppin,Dayton,2020,1,8,Unranked,False,A10
+O.G. Anunoby,Indiana,2017,1,23,Unranked,False,B10
+Norman Powell,UCLA,2015,2,46,S16,True,P12
+Noah Vonleh,Indiana,2014,1,9,Unranked,False,B10
+Nickeil Alexander-Walker,Virginia Tech,2019,1,17,S16,True,ACC
+Nic Claxton,Georgia,2019,2,31,Unranked,False,SEC
+Sandro Mamukelashvili,Seton Hall,2021,2,54,Unranked,False,BE
+Scottie Barnes,Florida State,2021,1,4,S16,True,ACC
+Vernon Carey Jr.,Duke,2020,2,32,Unranked,False,ACC
+Udoka Azubuike,Kansas,2020,1,27,Unranked,False,B12
+Tyus Jones,Duke,2015,1,24,Champions,True,ACC
+Tyrese Maxey,Kentucky,2020,1,21,Unranked,False,SEC
+Tyrese Martin,Connecticut,2022,2,51,R64,True,Amer
+Tyrese Haliburton,Iowa State,2020,1,12,Unranked,False,B12
+Tyler Herro,Kentucky,2019,1,13,E8,True,SEC
+Tyler Dorsey,Oregon,2017,2,41,F4,True,P12
+TyTy Washington Jr.,Kentucky,2022,1,29,R64,True,SEC
+Ty Jerome,Virginia,2019,1,24,Champions,True,ACC
+Troy Brown Jr.,Oregon,2018,1,15,Unranked,False,P12
+Trey Murphy III,Virginia,2021,1,17,R64,True,ACC
+Trey Lyles,Kentucky,2015,1,12,F4,True,SEC
+Trevor Keels,Duke,2022,2,42,F4,True,ACC
+Victor Oladipo,Indiana,2013,1,2,S16,True,B10
+Vince Williams Jr.,Virginia Commonwealth,2022,2,47,Unranked,False,Unranked / Non-NCAA
+Michael Porter Jr.,Missouri,2018,1,14,R64,True,SEC
+Zion Williamson,Duke,2019,1,1,E8,True,ACC
+Ziaire Williams,Stanford,2021,1,10,Unranked,False,P12
+Zeke Nnaji,Arizona,2020,1,22,Unranked,False,P12
+Zach LaVine,UCLA,2014,1,13,S16,True,P12
+Zach Collins,Gonzaga,2017,1,10,2ND,True,WCC
+Xavier Tillman,Michigan State,2020,2,35,Unranked,False,B10
+Wendell Moore Jr.,Duke,2022,1,26,F4,True,ACC
+Wendell Carter Jr.,Duke,2018,1,7,E8,True,ACC
+Walker Kessler,Auburn,2022,1,22,R32,True,SEC
+Santi Aldama,Loyola-Maryland,2021,1,30,Unranked,False,Unranked / Non-NCAA
+Tre Mann,Florida,2021,1,18,R32,True,SEC
+T.J. McConnell,Arizona,2015,0,0,E8,True,P12
+Svi Mykhailiuk,Kansas,2018,2,47,F4,True,B12
+Steven Adams,Pittsburgh,2013,1,12,R64,True,ACC
+Sterling Brown,Southern Methodist,2017,2,46,Unranked,False,Unranked / Non-NCAA
+Stanley Johnson,Arizona,2015,1,8,E8,True,P12
+Spencer Dinwiddie,Colorado,2014,2,38,R64,True,P12
+Skylar Mays,Louisiana State,2020,2,50,Unranked,False,SEC
+Shake Milton,Southern Methodist,2018,2,54,Unranked,False,Unranked / Non-NCAA
+Shai Gilgeous-Alexander,Kentucky,2018,1,11,S16,True,SEC
+Shaedon Sharpe,Kentucky,2022,1,7,R64,True,SEC
+T.J. Warren,North Carolina State,2014,1,14,R64,True,ACC
+Tari Eason,Louisiana State,2022,1,17,R64,True,SEC
+Tre Jones,Duke,2020,2,41,Unranked,False,ACC
+Trae Young,Oklahoma,2018,1,5,R64,True,B12
+Tony Bradley,North Carolina,2017,1,28,Champions,True,ACC
+Tim Hardaway Jr.,Michigan,2013,1,24,2ND,True,B10
+Thomas Bryant,Indiana,2017,2,42,Unranked,False,B10
+Terry Rozier,Louisville,2015,1,16,E8,True,BE
+Terance Mann,Florida State,2019,2,48,S16,True,ACC
+Taurean Prince,Baylor,2016,1,12,R64,True,B12
+Talen Horton-Tucker,Iowa State,2019,2,46,R64,True,B12
+Lindell Wigginton,Iowa State,2019,0,0,R64,True,B12
+Dennis Smith Jr.,North Carolina State,2017,1,9,Unranked,False,ACC
+Derrick White,Colorado,2017,1,29,Unranked,False,P12
+Desmond Bane,TCU,2020,1,30,Unranked,False,B12
+Devin Booker,Kentucky,2015,1,13,F4,True,SEC
+Devin Vassell,Florida State,2020,1,11,Unranked,False,ACC
+Devonte' Graham,Kansas,2018,2,34,F4,True,B12
+Dillon Brooks,Oregon,2017,2,45,F4,True,P12
+Domantas Sabonis,Gonzaga,2016,1,11,S16,True,WCC
+Donovan Mitchell,Louisville,2017,1,13,R32,True,BE
+Donte DiVincenzo,Villanova,2018,1,17,Champions,True,BE
+Doug McDermott,Creighton,2014,1,11,R32,True,BE
+Dejounte Murray,Washington,2016,1,29,Unranked,False,P12
+Darius Garland,Vanderbilt,2019,1,5,Unranked,False,SEC
+David Roddy,Colorado State,2022,1,23,R64,True,MWC
+Davion Mitchell,Baylor,2021,1,9,Champions,True,B12
+Davon Reed,Miami,2017,2,32,Unranked,False,Unranked / Non-NCAA
+Day'Ron Sharpe,North Carolina,2021,1,29,R64,True,ACC
+De'Aaron Fox,Kentucky,2017,1,5,E8,True,SEC
+De'Andre Hunter,Virginia,2019,1,4,Champions,True,ACC
+De'Anthony Melton,Southern California,2018,2,46,Unranked,False,P12
+Deandre Ayton,Arizona,2018,1,1,R64,True,P12
+Delon Wright,Utah,2015,1,20,S16,True,P12
+Georges Niang,Iowa State,2016,2,50,S16,True,B12
+Gorgui Dieng,Louisville,2013,1,21,Champions,True,BE
+Grant Williams,Tennessee,2019,1,22,S16,True,SEC
+Grayson Allen,Duke,2018,1,21,E8,True,ACC
+Greg Brown III,Texas,2021,2,43,R64,True,B12
+Hamidou Diallo,Kentucky,2018,2,45,S16,True,SEC
+Haywood Highsmith,Wheeling Jesuit,2018,0,0,Unranked,False,Unranked / Non-NCAA
+Herbert Jones,Alabama,2021,2,35,S16,True,SEC
+Immanuel Quickley,Kentucky,2020,1,25,Unranked,False,SEC
+Isaac Okoro,Auburn,2020,1,5,Unranked,False,SEC
+Isaiah Jackson,Kentucky,2021,1,22,Unranked,False,SEC
+Isaiah Joe,Arkansas,2020,2,49,Unranked,False,SEC
+Gary Trent Jr.,Duke,2018,2,37,E8,True,ACC
+Gary Harris,Michigan State,2014,1,19,E8,True,B10
+Dwight Powell,Stanford,2014,2,45,S16,True,P12
+Dylan Windler,Belmont,2019,1,26,R64,True,OVC
+Edmond Sumner,Xavier,2017,2,52,E8,True,BE
+Evan Mobley,Southern California,2021,1,3,E8,True,P12
+Frank Jackson,Duke,2017,2,31,R32,True,ACC
+Frank Kaminsky,Wisconsin,2015,1,9,2ND,True,B10
+Franz Wagner,Michigan,2021,1,8,E8,True,B10
+Daniel Gafford,Arkansas,2019,2,38,Unranked,False,SEC
+Ayo Dosunmu,Illinois,2021,2,38,R32,True,B10
+Bam Adebayo,Kentucky,2017,1,14,E8,True,SEC
+Ben Simmons,Louisiana State,2016,1,1,Unranked,False,SEC
+Bennedict Mathurin,Arizona,2022,1,6,S16,True,P12
+Blake Wesley,Notre Dame,2022,1,25,R32,True,ACC
+Bobby Portis,Arkansas,2015,1,22,R32,True,SEC
+Bol Bol,Oregon,2019,2,44,S16,True,P12
+Bones Hyland,Virginia Commonwealth,2021,1,26,Unranked,False,Unranked / Non-NCAA
+Brandon Boston Jr.,Kentucky,2021,2,51,Unranked,False,SEC
+Anthony Edwards,Georgia,2020,1,1,Unranked,False,SEC
+Andrew Wiggins,Kansas,2014,1,1,R32,True,B12
+AJ Griffin,Duke,2022,1,16,F4,True,ACC
+Aaron Gordon,Arizona,2014,1,4,E8,True,P12
+Aaron Holiday,UCLA,2018,1,23,R68,True,P12
+Aaron Nesmith,Vanderbilt,2020,1,14,Unranked,False,SEC
+Aaron Wiggins,Maryland,2021,2,55,R32,True,B10
+Admiral Schofield,Tennessee,2019,2,42,S16,True,SEC
+Brandon Clarke,Gonzaga,2019,1,21,E8,True,WCC
+Alex Len,Maryland,2013,1,5,Unranked,False,B10
+Alize Johnson,Missouri State,2018,2,50,Unranked,False,Unranked / Non-NCAA
+Andrew Nembhard,Gonzaga,2022,2,31,S16,True,WCC
+Isaiah Livers,Michigan,2021,2,42,E8,True,B10
+Brandon Ingram,Duke,2016,1,2,S16,True,ACC
+Christian Braun,Kansas,2022,1,21,Champions,True,B12
+Christian Koloko,Arizona,2022,2,33,S16,True,P12
+Chuma Okeke,Auburn,2019,1,16,F4,True,SEC
+Coby White,North Carolina,2019,1,7,S16,True,ACC
+Cody Martin,Nevada,2019,2,36,R64,True,MWC
+Cody Zeller,Indiana,2013,1,4,S16,True,B10
+Cole Anthony,North Carolina,2020,1,15,Unranked,False,ACC
+Collin Sexton,Alabama,2018,1,8,R32,True,SEC
+Corey Kispert,Gonzaga,2021,1,15,2ND,True,WCC
+D'Angelo Russell,Ohio State,2015,1,2,R32,True,B10
+Dalano Banton,Nebraska,2021,2,46,Unranked,False,B10
+Dalen Terry,Arizona,2022,1,18,S16,True,P12
+Damian Jones,Vanderbilt,2016,1,30,R68,True,SEC
+Chris Duarte,Oregon,2021,1,13,S16,True,P12
+Chimezie Metu,Southern California,2018,2,49,Unranked,False,P12
+Bruce Brown,Miami,2018,2,42,Unranked,False,Unranked / Non-NCAA
+Bruno Fernando,Maryland,2019,2,34,R32,True,B10
+Bryce McGowens,Nebraska,2022,2,40,Unranked,False,B10
+Buddy Hield,Oklahoma,2016,1,6,F4,True,B12
+CJ McCollum,Lehigh,2013,1,10,Unranked,False,Unranked / Non-NCAA
+Cade Cunningham,Oklahoma State,2021,1,1,R32,True,B12
+Caleb Houstan,Michigan,2022,2,32,S16,True,B10
+Cam Thomas,Louisiana State,2021,1,27,R32,True,SEC
+Cameron Johnson,North Carolina,2019,1,11,S16,True,ACC
+Cameron Payne,Murray State,2015,1,14,Unranked,False,OVC
+Caris LeVert,Michigan,2016,1,20,R64,True,B10
+Charles Bassey,Western Kentucky,2021,2,53,Unranked,False,SB
+Cam Reddish,Duke,2019,1,10,E8,True,ACC
+Michael Carter-Williams,Syracuse,2013,1,11,F4,True,ACC
+Isaiah Mobley,Southern California,2022,2,49,R64,True,P12
+Isaiah Stewart,Washington,2020,1,16,Unranked,False,P12
+Keon Johnson,Tennessee,2021,1,21,R64,True,SEC
+Kessler Edwards,Pepperdine,2021,2,44,Unranked,False,Unranked / Non-NCAA
+Kevin Huerter,Maryland,2018,1,19,Unranked,False,B10
+Kevin Knox II,Kentucky,2018,1,9,S16,True,SEC
+Kevin Porter Jr.,Southern California,2019,1,30,Unranked,False,P12
+Kevon Looney,UCLA,2015,1,30,S16,True,P12
+Kira Lewis Jr.,Alabama,2020,1,13,Unranked,False,SEC
+Kris Dunn,Providence,2016,1,5,R32,True,BE
+Kentavious Caldwell-Pope,Georgia,2013,1,8,Unranked,False,SEC
+Kyle Anderson,UCLA,2014,1,30,S16,True,P12
+Kennedy Chandler,Tennessee,2022,2,38,R32,True,SEC
+Julius Randle,Kentucky,2014,1,7,2ND,True,SEC
+Justin Jackson,North Carolina,2017,1,15,Champions,True,ACC
+Justise Winslow,Duke,2015,1,10,Champions,True,ACC
+KZ Okpala,Stanford,2019,2,32,Unranked,False,P12
+Kai Jones,Texas,2021,1,19,R64,True,B12
+Karl-Anthony Towns,Kentucky,2015,1,1,F4,True,SEC
+Keegan Murray,Iowa,2022,1,4,R64,True,B10
+Keita Bates-Diop,Ohio State,2018,2,48,R32,True,B10
+Keldon Johnson,Kentucky,2019,1,29,E8,True,SEC
+Kelly Olynyk,Gonzaga,2013,1,13,R32,True,WCC
+Kelly Oubre Jr.,Kansas,2015,1,15,R32,True,B12
+Kendall Brown,Baylor,2022,2,48,R32,True,B12
+Kyle Kuzma,Utah,2017,1,27,Unranked,False,P12
+Marcus Smart,Oklahoma State,2014,1,6,R64,True,B12
+Mark Williams,Duke,2022,1,15,F4,True,ACC
+Markelle Fultz,Washington,2017,1,1,Unranked,False,P12
+Marvin Bagley III,Duke,2018,1,2,E8,True,ACC
+Mason Plumlee,Duke,2013,1,22,E8,True,ACC
+Matisse Thybulle,Washington,2019,1,20,R32,True,P12
+Max Christie,Michigan State,2022,2,35,R32,True,B10
+Mfiondu Kabengele,Florida State,2019,1,27,S16,True,ACC
+Malik Monk,Kentucky,2017,1,11,E8,True,SEC
+Malik Beasley,Florida State,2016,1,19,Unranked,False,ACC
+Malcolm Brogdon,Virginia,2016,2,36,E8,True,ACC
+Landry Shamet,Wichita State,2018,1,26,R64,True,MVC
+Larry Nance Jr.,Wyoming,2015,1,27,R64,True,MWC
+Lauri Markkanen,Arizona,2017,1,7,S16,True,P12
+Lonnie Walker IV,Miami,2018,1,18,Unranked,False,Unranked / Non-NCAA
+Luka Garza,Iowa,2021,2,52,R32,True,B10
+Luke Kennard,Duke,2017,1,12,R32,True,ACC
+Malachi Flynn,San Diego State,2020,1,29,Unranked,False,MWC
+Malaki Branham,Ohio State,2022,1,20,R32,True,B10
+Jalen McDaniels,San Diego State,2019,2,52,Unranked,False,MWC
+Jalen Smith,Maryland,2020,1,10,Unranked,False,B10
+Jalen Suggs,Gonzaga,2021,1,5,2ND,True,WCC
+Jalen Williams,Santa Clara,2022,1,12,Unranked,False,Unranked / Non-NCAA
+Jamal Murray,Kentucky,2016,1,7,R32,True,SEC
+James Bouknight,Connecticut,2021,1,11,R64,True,Amer
+James Wiseman,Memphis,2020,1,2,Unranked,False,Amer
+Jared Butler,Baylor,2021,2,40,Champions,True,B12
+Jaren Jackson Jr.,Michigan State,2018,1,4,R32,True,B10
+Jarred Vanderbilt,Kentucky,2018,2,41,S16,True,SEC
+Jarrell Brantley,College of Charleston,2019,2,50,Unranked,False,CAA
+Jarrett Allen,Texas,2017,1,22,Unranked,False,B12
+Jarrett Culver,Texas Tech,2019,1,6,2ND,True,B12
+Jason Preston,Ohio,2021,2,33,R32,True,MAC
+Jalen Johnson,Duke,2021,1,20,Unranked,False,ACC
+Jalen Duren,Memphis,2022,1,13,R32,True,Amer
+Jalen Brunson,Villanova,2018,2,33,Champions,True,BE
+JD Davison,Alabama,2022,2,53,R64,True,SEC
+JT Thor,Auburn,2021,2,37,Unranked,False,SEC
+Ja Morant,Murray State,2019,1,2,R32,True,OVC
+Jabari Smith Jr.,Auburn,2022,1,3,R32,True,SEC
+Jabari Walker,Colorado,2022,2,57,Unranked,False,P12
+Jaden Ivey,Purdue,2022,1,5,S16,True,B10
+Jaden McDaniels,Washington,2020,1,28,Unranked,False,P12
+Jaden Springer,Tennessee,2021,1,28,R64,True,SEC
+Jake LaRavia,Wake Forest,2022,1,19,Unranked,False,ACC
+Jakob Poeltl,Utah,2016,1,9,R32,True,P12
+Isaiah Roby,Nebraska,2019,2,45,Unranked,False,B10
+Jaxson Hayes,Texas,2019,1,8,Unranked,False,B12
+Jay Scrubb,John A. Logan,2020,2,55,Unranked,False,Unranked / Non-NCAA
+Jonathan Isaac,Florida State,2017,1,6,R32,True,ACC
+Jordan Clarkson,Missouri,2014,2,46,Unranked,False,SEC
+Jordan Nwora,Louisville,2020,2,45,Unranked,False,BE
+Jordan Poole,Michigan,2019,1,28,S16,True,B10
+Josh Christopher,Arizona State,2021,1,24,Unranked,False,P12
+Josh Green,Arizona,2020,1,18,Unranked,False,P12
+Josh Hart,Villanova,2017,1,30,R32,True,BE
+Josh Minott,Memphis,2022,2,45,R32,True,Amer
+Josh Okogie,Georgia Tech,2018,1,20,Unranked,False,ACC
+Josh Richardson,Tennessee,2015,2,40,Unranked,False,SEC
+Joshua Primo,Alabama,2021,1,12,S16,True,SEC
+Johnny Davis,Wisconsin,2022,1,10,R32,True,B10
+Jaylen Brown,California,2016,1,3,R64,True,P12
+Jaylen Nowell,Washington,2019,2,43,R32,True,P12
+Jaylin Williams,Arkansas,2022,2,34,E8,True,SEC
+Jayson Tatum,Duke,2017,1,3,R32,True,ACC
+Jerami Grant,Syracuse,2014,2,39,R32,True,ACC
+Jeremiah Robinson-Earl,Villanova,2021,2,32,S16,True,BE
+Jeremy Sochan,Baylor,2022,1,9,R32,True,B12
+Jevon Carter,West Virginia,2018,2,32,S16,True,B12
+Joe Harris,Virginia,2014,2,33,S16,True,ACC
+Joe Wieskamp,Iowa,2021,2,41,R32,True,B10
+Joel Embiid,Kansas,2014,1,3,R32,True,B12
+John Collins,Wake Forest,2017,1,19,R68,True,ACC
+Jericho Sims,Texas,2021,2,58,R64,True,B12
