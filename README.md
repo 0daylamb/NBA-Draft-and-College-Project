@@ -145,9 +145,13 @@ AI collaboration worked best as a thinking partner — not as a replacement for 
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+[Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Regression-F7931E?logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Testing-8CAAE6?logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Regression%20Analysis-4051A8?logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?logo=matplotlib&logoColor=white)
+![Regex](https://img.shields.io/badge/re-Text%20Normalization-lightgrey?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 
 ---
